@@ -1,0 +1,161 @@
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         2437         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 2437-6  VALPARAISO, GO                           UNID. RECOLHIMENTO: 2437-6  VALPARAISO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.2185-8  NOME: VALPARAISO DE GOIAS                  UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 2437-6  VALPARAISO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-018622.0 LOTERICA ALIANCA LTDA ME                 CPF/CNPJ: 07.108.438/0001-37  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         325,00                 27,97           2,79              0,77
+    0591 LOTOFACIL                                                   37.726,00              3.248,46           2,79             90,56
+    0592 TIMEMANIA                                                    6.162,00                554,58           2,79             15,40
+    0595 LOTOGOL                                                         22,00                  1,87           2,79              0,03
+    0740 QUINA                                                       23.649,00              2.035,81           2,79             56,63
+    0741 MEGASENA                                                    95.991,00              8.266,88           2,79            230,59
+    0745 LOTOMANIA                                                    7.320,00                630,06           2,79             17,53
+    0749 DUPLA SENA                                                   4.856,00                418,10           2,79             11,61
+ 
+    TOTAL/CANAL LOTERICO:                                           176.051,00             15.183,73                           423,12
+ 
+    0761 LOTERIA FEDERAL                                              1.483,80                 74,19           2,79              2,03
+ 
+    TOTAL/CANAL LOTERICO:                                             1.483,80                 74,19                             2,03
+ 
+    TOTAL CD:                                                       177.534,80             15.257,92                           425,15
+0
+ 08-020801.0 CASA LOTERICA PREMIUM LTDA               CPF/CNPJ: 12.929.582/0001-74  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                           6,00                  0,51           0,00              0,00
+    0591 LOTOFACIL                                                   13.554,00              1.167,10           0,00              0,00
+    0592 TIMEMANIA                                                    1.290,00                116,10           0,00              0,00
+    0595 LOTOGOL                                                          6,00                  0,50           0,00              0,00
+    0740 QUINA                                                        7.527,00                647,82           0,00              0,00
+    0741 MEGASENA                                                    36.281,00              3.124,62           0,00              0,00
+    0745 LOTOMANIA                                                    2.731,50                235,11           0,00              0,00
+    0749 DUPLA SENA                                                     676,00                 58,17           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                            62.071,50              5.349,93                             0,00
+ 
+    0760 LOTERIA INSTANTANEA                                          1.500,00                195,00           0,00              0,00
+    0761 LOTERIA FEDERAL                                                431,60                 21,58           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                             1.931,60                216,58                             0,00
+ 
+    TOTAL CD:                                                        64.003,10              5.566,51                             0,00
+0
+ 08-020841.0 CASA LOTERICA AGUIAR LTDA - ME           CPF/CNPJ: 13.163.236/0001-90  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          52,00                  4,47           5,00              0,21
+    0591 LOTOFACIL                                                    8.790,00                756,79           5,00             37,79
+    0592 TIMEMANIA                                                    1.258,00                113,22           5,00              5,61
+    0595 LOTOGOL                                                          8,00                  0,68           5,00              0,01
+    0740 QUINA                                                        4.255,50                365,91           5,00             18,19
+    0741 MEGASENA                                                    21.493,50              1.851,03           5,00             92,51
+    0745 LOTOMANIA                                                    1.675,50                144,07           5,00              7,16
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         2437         PAG -      2
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 2437-6  VALPARAISO, GO                           UNID. RECOLHIMENTO: 2437-6  VALPARAISO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.2185-8  NOME: VALPARAISO DE GOIAS                  UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 2437-6  VALPARAISO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+    0749 DUPLA SENA                                                     376,00                 32,31           5,00              1,54
+ 
+    TOTAL/CANAL LOTERICO:                                            37.908,50              3.268,48                           163,02
+ 
+    0761 LOTERIA FEDERAL                                                278,80                 13,94           5,00              0,67
+ 
+    TOTAL/CANAL LOTERICO:                                               278,80                 13,94                             0,67
+ 
+    TOTAL CD:                                                        38.187,30              3.282,42                           163,69
+0
+ TOTAL PONTO DE VENDA:                                              279.725,20             24.106,85                           588,84
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         2437         PAG -      3
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 2437-6  VALPARAISO, GO                           UNID. RECOLHIMENTO: 2437-6  VALPARAISO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.2185-8  NOME: VALPARAISO DE GOIAS                  UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 4501-2  VALPARAISO CENTRO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-006970.3 LOTERIAS SORTE LTDA                      CPF/CNPJ: 02.857.618/0001-06  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                       1.134,00                 97,64           5,00              4,87
+    0591 LOTOFACIL                                                   78.086,00              6.724,20           5,00            336,13
+    0592 TIMEMANIA                                                   11.336,00              1.020,24           5,00             50,95
+    0595 LOTOGOL                                                        342,00                 29,41           5,00              1,43
+    0740 QUINA                                                       49.465,50              4.258,58           5,00            212,79
+    0741 MEGASENA                                                   160.181,00             13.795,16           5,00            689,71
+    0745 LOTOMANIA                                                   10.561,50                909,19           5,00             45,42
+    0749 DUPLA SENA                                                   8.638,00                743,78           5,00             37,13
+ 
+    TOTAL/CANAL LOTERICO:                                           319.744,00             27.578,20                         1.378,43
+ 
+    0761 LOTERIA FEDERAL                                              1.142,00                 57,10           0,00              2,84
+ 
+    TOTAL/CANAL LOTERICO:                                             1.142,00                 57,10                             2,84
+ 
+    TOTAL CD:                                                       320.886,00             27.635,30                         1.381,27
+0
+ 08-007515.0 CASA LOT COLMEIA DE OURO LTD             CPF/CNPJ: 03.311.732/0001-90  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         800,00                 68,88           5,00              3,43
+    0591 LOTOFACIL                                                   56.940,00              4.903,26           5,00            245,09
+    0592 TIMEMANIA                                                    6.164,00                554,76           5,00             27,68
+    0595 LOTOGOL                                                         30,00                  2,56           5,00              0,10
+    0740 QUINA                                                       41.589,00              3.580,01           5,00            178,90
+    0741 MEGASENA                                                   126.479,50             10.892,69           5,00            544,59
+    0745 LOTOMANIA                                                   11.539,50                993,56           5,00             49,65
+    0749 DUPLA SENA                                                   6.254,00                538,47           5,00             26,85
+ 
+    TOTAL/CANAL LOTERICO:                                           249.796,00             21.534,19                         1.076,29
+ 
+    0761 LOTERIA FEDERAL                                                989,20                 49,46           0,00              2,41
+ 
+    TOTAL/CANAL LOTERICO:                                               989,20                 49,46                             2,41
+ 
+    TOTAL CD:                                                       250.785,20             21.583,65                         1.078,70
+0
+ TOTAL PONTO DE VENDA:                                              571.671,20             49.218,95                         2.459,97
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         2437         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 52.2185-8  NOME: VALPARAISO DE GOIAS                  UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                       2.317,00                199,47                             9,28
+    0591 LOTOFACIL                                                  195.096,00             16.799,81                           709,57
+    0592 TIMEMANIA                                                   26.210,00              2.358,90                            99,64
+    0595 LOTOGOL                                                        408,00                 35,02                             1,57
+    0740 QUINA                                                      126.486,00             10.888,13                           466,51
+    0741 MEGASENA                                                   440.426,00             37.930,38                         1.557,40
+    0745 LOTOMANIA                                                   33.828,00              2.911,99                           119,76
+    0749 DUPLA SENA                                                  20.800,00              1.790,83                            77,13
+    0760 LOTERIA INSTANTANEA                                          1.500,00                195,00                             0,00
+    0761 LOTERIA FEDERAL                                              4.325,40                216,27                             7,95
+0
+ TOTAL GERAL:                                                       851.396,40             73.325,80                         3.048,81

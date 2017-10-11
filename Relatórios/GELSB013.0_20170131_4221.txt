@@ -1,0 +1,55 @@
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         4221         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 4221-8  PADRE BERNARDO, GO                       UNID. RECOLHIMENTO: 4221-8  PADRE BERNARDO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.1560-3  NOME: PADRE BERNARDO                       UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 4221-8  PADRE BERNARDO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-015304.6 MEGA TREVO LOTERICA                      CPF/CNPJ: 05.229.530/0001-20  INSC. ISS:      0  TP. EMP.: PEQUENO PORTE
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                           2,00                  0,17           0,00              0,00
+    0591 LOTOFACIL                                                   19.868,00              1.710,68           0,00              0,00
+    0592 TIMEMANIA                                                    2.948,00                265,32           0,00              0,00
+    0595 LOTOGOL                                                         10,00                  0,85           0,00              0,00
+    0740 QUINA                                                       14.040,00              1.208,39           0,00              0,00
+    0741 MEGASENA                                                    55.769,00              4.802,78           0,00              0,00
+    0745 LOTOMANIA                                                    5.685,00                489,24           0,00              0,00
+    0749 DUPLA SENA                                                   1.626,00                139,93           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                            99.948,00              8.617,36                             0,00
+ 
+    0761 LOTERIA FEDERAL                                                557,60                 27,88           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                               557,60                 27,88                             0,00
+ 
+    TOTAL CD:                                                       100.505,60              8.645,24                             0,00
+0
+ TOTAL PONTO DE VENDA:                                              100.505,60              8.645,24                             0,00
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         4221         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 52.1560-3  NOME: PADRE BERNARDO                       UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                           2,00                  0,17                             0,00
+    0591 LOTOFACIL                                                   19.868,00              1.710,68                             0,00
+    0592 TIMEMANIA                                                    2.948,00                265,32                             0,00
+    0595 LOTOGOL                                                         10,00                  0,85                             0,00
+    0740 QUINA                                                       14.040,00              1.208,39                             0,00
+    0741 MEGASENA                                                    55.769,00              4.802,78                             0,00
+    0745 LOTOMANIA                                                    5.685,00                489,24                             0,00
+    0749 DUPLA SENA                                                   1.626,00                139,93                             0,00
+    0761 LOTERIA FEDERAL                                                557,60                 27,88                             0,00
+0
+ TOTAL GERAL:                                                       100.505,60              8.645,24                             0,00

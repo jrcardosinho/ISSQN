@@ -1,0 +1,120 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:41                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0942-UNAI, MG                                              PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 31/7040-4 UNAI
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                            0,00            0,00
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    00041835-8  UNAI, MG                            0942  000360305/0942-57                           0,00            0,00   5,00000
+    00017951-5  MEGA PRESENTES                      0942  009609706/0001-20                         684,49           13,68   2,00000
+    00064399-8  CONVENIENCIA CANAA LTDA - ME        0942  021977488/0001-81                         402,29           14,07   3,50000
+    00054050-1  ARMAZ M PAIVA LTDA -ME              0942  006292545/0001-03  001321               2.437,28          121,86   5,00000
+    00014667-6  DOBRADINHA CLUBE DE SERVI OS LTDA   0942  008783668/0001-64  08783668             4.216,34           84,32   2,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                            7.740,40          233,93
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                               2.437,28          121,86   5,00000
+                                                                                                  4.900,83           98,00   2,00000
+                                                                                                    402,29           14,07   3,50000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                           7.740,40          233,93
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:41                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0942-UNAI, MG                                              PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 31/7040-4 UNAI
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    11008084-0  CASA DA FORTUNA LTDA FILIAL         0942  017652017/0002-07                       6.107,59          234,51   3,84000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                        6.107,59          234,51
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    11003803-7  CASA DA FORTUNA LTD                 0942  017652017/0001-26  0007701-36          32.873,66        1.262,33   3,84000
+    11017657-0  LOT RICA MHC LTDA                   0942  006004284/0001-70  031700               9.521,01          368,46   3,87000
+    11017657-0  LOT RICA MHC LTDA                   0942  006004284/0001-70  031700              23.459,36          992,32   4,23000
+    11023908-3  CRISTAL DA SORTE LOTERICA LTDA ME   0942  019061216/0001-95  046622              10.348,52          288,69   2,79000
+    11023909-1  MEGA SORTE LOTERICA UNAI LTDA ME    0942  019061302/0001-06  046627               8.973,19          179,44   2,00000
+    11007464-5  CASA LOTERICA UNAI LTDA             0942  003286740/0001-24  193901-60           18.643,30          520,12   2,79000
+ 
+ TOTAL INSCRITOS I.S.S                                                                          103.819,04        3.611,36
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              38.981,25        1.496,84   3,84000
+                                                                                                  9.521,01          368,46   3,87000
+                                                                                                 23.459,36          992,32   4,23000
+                                                                                                 28.991,82          808,81   2,79000
+                                                                                                  8.973,19          179,44   2,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                         109.926,63        3.845,87
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO

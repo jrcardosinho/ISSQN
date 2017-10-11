@@ -1,0 +1,157 @@
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             3189            PAG:    1
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 3189-5 - NOVO GAMA, GO                                                                           PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 3189-5 NOVO GAMA, GO                         CNPJ: 00.360.305.3189-70              INSC. MUNICIPAL: 2471
+0MUNICIPIO: 52-1523-1 NOVO GAMA                            PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     15.05   7.1.7.95.05.01-5 RENDAS DE TARIFAS DE EXCLUSAO DO CCF-PF                     5,00              357,50            17,87
+     15.05   7.1.7.98.01.01-3 RDAS DE SERV S/ TARIFAS DE CADASTRO/RENOV PJ                5,00              857,00            42,84
+     15.05   7.1.7.98.02.03-6 RDAS DE SERV S/ TARIFAS DE EXCLUSAO DO CCF PJ               5,00            2.534,50           126,72
+     15.05   7.1.7.99.10.81-5 RDAS DE SERVS CONVENIO CADASTRAMENTO/REGUL CPF              5,00               55,00             2,75
+0                                TOTAL COD RECEITA: N/CAD           ----------------------->              3.804,00           190,18
+ 
+0  CODIGO RECEITA:  001             - DAM S/COD. RECEITA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 10 - SERVICOS DE INTERMEDIACAO E CONGENERES
+     10.01   7.1.7.80.10.29-2 RENDAS DE PREST DE SERVICOS-PROD CAIXA SEGUROS              5,00            5.414,99           270,68
+     10.02   7.1.7.99.55.24-0 RDAS DE TARIFAS AFILIACAO ESTAB COMERCIAL                   5,00              556,16            27,80
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+     15.02   7.1.7.98.99.04-8 RDAS DE TARIFAS S/ A MANUT CONTAS INATIVAS PJ               5,00               23,70             1,18
+     15.02   7.1.7.99.55.12-6 RDAS DE TARIFAS S/ MANUTENCAO DE CONTAS ATIVAS              5,00            9.389,86           469,49
+     15.06   7.1.7.98.02.10-9 RDAS TARIFAS PJ-FORNCTO DE MICROFILME/MICHOFICHA            5,00              126,20             6,31
+     15.06   7.1.7.99.55.41-0 RDAS DE TARIFAS MALOTE EMPRESARIAL PJ                       5,00            1.417,00            70,85
+     15.07   7.1.7.94.01.01-5 RENDAS DE CESTA DE SERVICOS-PF                              5,00           43.736,29         2.186,81
+     15.07   7.1.7.95.13.02-6 RDAS DE TARIFAS DE EMISSAO EXTRATO ELETRONICO PF            5,00              980,70            49,02
+     15.07   7.1.7.98.02.09-5 RDAS DE SERV TARIFAS DE EXTRATO EXCEDENTE PJ                5,00              853,00            42,65
+     15.07   7.1.7.98.99.01-3 RENDAS DE TARIFAS SOBRE PACOTES DE SERVICOS PJ              5,00           23.845,08         1.192,25
+     15.07   7.1.7.99.10.16-5 RENDAS DE SERVICOS PRESTADOS A CORRENTISTAS                 5,00              160,00             8,00
+     15.07   7.1.7.99.55.22-3 RDAS DE TARIFAS-COMPARTILHAMENTO DE REDE                    5,00              340,68            17,03
+     15.08   7.1.7.95.19.01-6 RENDAS DE TARIFAS SOBRE ADEP-PF                             5,00            9.174,18           458,70
+     15.08   7.1.7.97.10.09-3 RDAS S/ TARIFA DE ABERTURA/RENOV DE OP DE CRED              5,00              710,58            35,52
+     15.08   7.1.7.98.04.01-2 RDAS TARIFAS PJ S/ ADIANTAMENTO A DEPOSITANTES              5,00            2.964,00           148,20
+     15.08   7.1.7.99.55.13-4 RENDAS DE TARIFAS MANUTENCAO DO CREDITO ROTATIVO            5,00            2.160,00           108,00
+     15.08   7.1.7.99.55.30-4 RDAS DE TARIFAS ABERTURA/RENOVACAO OP CRED PJ               5,00           12.246,38           612,31
+     15.10   7.1.7.40.10.01-8 RENDAS DE SERVICOS DE COBRANCA DE TITULOS                   5,00           30.160,02         1.507,97
+     15.10   7.1.7.80.10.02-0 RDAS SERVS PREST LIG -CX SEGUROS DEBITO EM CONTA            5,00               19,20             0,96
+     15.10   7.1.7.80.10.17-9 RENDAS DE TARIFAS DE SERVICOS DE ARRECADACAO                5,00              315,80            15,79
+     15.10   7.1.7.99.20.09-8 RENDAS DE TARIFA DE SERVS PREST A CONVENENTES               5,00            3.291,95           164,58
+     15.10   7.1.7.99.20.11-0 RENDAS DE TARIFA DE SERVS PREST A CONVEN SICAP              5,00           64.211,93         3.210,54
+     15.10   7.1.7.99.20.13-6 RENDAS DE TARIFA SERVICOS DE RECEBIMENTO DO FGTS            5,00              830,54            41,52
+     15.10   7.1.7.99.20.14-4 RENDAS DE TARIFA DE SERVS PREST A ORGAOS PUB FED            5,00              922,15            46,10
+     15.10   7.1.7.99.20.16-0 RENDAS DE TARIFA ARREC DE TRIB E REC ESTADUAIS              5,00            2.888,55           144,42
+     15.10   7.1.7.99.20.32-2 RENDAS DE TARIFA ARREC CONTRIBUICAO SINDICAL                5,00               57,29             2,86
+     15.10   7.1.7.80.10.20-9 OUTRAS RENDAS DE SERVICOS PRESTADOS A LIGADAS               5,00                9,00             0,45
+     15.10   7.1.7.99.10.60-2 RDAS DE SERVS SOBRE O PGTO DO FDO GARANTIA SAFRA            5,00               10,40             0,52
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             3189            PAG:    2
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 3189-5 - NOVO GAMA, GO                                                                           PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 3189-5 NOVO GAMA, GO                         CNPJ: 00.360.305.3189-70              INSC. MUNICIPAL: 2471
+0MUNICIPIO: 52-1523-1 NOVO GAMA                            PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  001             - DAM S/COD. RECEITA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     15.10   7.1.7.99.20.05-5 RDAS DE SERVS - PAGTO DO FGTS                               5,00           10.196,55           509,82
+     15.10   7.1.7.99.20.06-3 RENDAS DE TARIFA SOBRE O PAGTO DE SEG DESEMPREGO            5,00            1.674,01            83,68
+     15.10   7.1.7.99.20.10-1 RENDAS DE TAR DE SERVS PREST A CONVEN DO SIACC              5,00            2.211,60           110,56
+     15.10   7.1.7.99.20.15-2 RENDAS DE TARIFA DE ARRECADACAO DO INSS                     5,00              906,61            45,33
+     15.10   7.1.7.99.20.73-0 PROGRAMAS SOCIAIS-TARIFA DE PRESTACAO DE SERVICO            5,00           10.889,36           544,45
+     15.14   7.1.7.95.03.01-2 RENDAS DE TARIFAS DE 2  VIA DE CARTAO DE DEBITO             5,00              180,97             9,04
+     15.14   7.1.7.95.04.01-9 RENDAS DE FORNECIMENTO DE 2  VIA CARTAO POUPANCA            5,00            1.445,77            72,28
+     15.14   7.1.7.95.20.01-4 RDAS DE TARIFAS ANUIDADE INICIAL CCRED BASICO-PF            5,00               46,61             2,32
+     15.14   7.1.7.95.21.01-0 RENDAS DE TARIFA DE EMISS O DE SEGUNDA CCRED                5,00              170,00             8,50
+     15.14   7.1.7.96.05.01-0 RENDAS DE ANUIDADE PARA CCRED DIFERENCIADO                  5,00            2.132,40           106,61
+     15.14   7.1.7.98.99.08-0 RENDAS SOBRE TARIFA DE ANUIDADE INICIAL PJ                  5,00               69,77             3,48
+     15.14   7.1.7.99.20.23-3 RENDAS DE TARIFA SOBRE SERVICOS CARTOES SOCIAIS             5,00              433,08            21,65
+     15.15   7.1.7.95.11.01-5 RENDAS DE TARIFAS PF-SAQUES GUICHE DE CAIXA                 5,00              561,06            28,04
+     15.15   7.1.7.95.11.02-3 RENDAS DE TARIFAS PF-SAQUES AUTO-ATENDIMENTO                5,00           29.053,08         1.452,64
+     15.15   7.1.7.95.11.03-1 RENDAS DE TARIFAS PF-SAQUES EM CORRESPONDENTES              5,00            4.939,44           246,95
+     15.15   7.1.7.98.02.08-7 RENDAS DE SERVICO S/ TARIFA DE SAQUE EXCEDENTE              5,00              894,00            44,70
+     15.16   7.1.7.95.15.02-9 RENDAS DE TARIFAS S/EMISSAO DE DOC ELETR-PF                 5,00              157,00             7,85
+     15.16   7.1.7.95.15.03-7 RENDAS DE TARIFAS S/EMISS O DE DOC VIA IBC-PF               5,00              180,55             9,02
+     15.16   7.1.7.95.15.04-5 RENDAS DE TARIFAS PF - TED PESSOAL VIA CIP                  5,00            1.264,20            63,20
+     15.16   7.1.7.95.15.06-1 RDAS DE TARIFAS S/EMISSAO DE TED CIP VIA IBC-PF             5,00              361,10            18,05
+     15.16   7.1.7.95.15.07-0 RDAS DE TARIFAS S/EMISSAO TED PESSOAL VIA STR-PF            5,00               44,10             2,20
+     15.16   7.1.7.95.15.09-6 RDAS DE TARIFAS S/EMISSAO DE TED STR VIA IBC-PF             5,00               54,95             2,74
+     15.16   7.1.7.95.15.10-0 RDAS TARIFAS DE TED STR/CIP PESSOAL-PF                      5,00               44,10             2,20
+     15.16   7.1.7.95.17.02-1 RDAS DE TARIFAS S/EMISSAO DE TEV-CLIENTES PF                5,00              289,14            14,44
+     15.16   7.1.7.96.04.02-1 RDAS DE SERVS DIFERENCIADOS A PF OP DE CAMBIO               5,00               62,70             3,13
+     15.16   7.1.7.98.03.02-4 RENDAS DE TARIFAS PJ SOBRE EMISSAO DE DOC                   5,00              431,75            21,58
+     15.16   7.1.7.98.03.03-2 RENDAS DE TARIFAS PJ  S/ EMISSAO DE TED VIA STR             5,00               23,55             1,17
+     15.16   7.1.7.98.03.04-0 RENDAS DE TARIFAS PJ S/ EMISSAO DE TED VIA CIP              5,00            1.021,05            51,04
+     15.17   7.1.7.95.06.01-1 RENDAS DE TARIFAS SUSTACAO/REVOGACAO CHEQUES-PF             5,00              149,50             7,47
+     15.17   7.1.7.95.07.01-8 RDAS DE TARIFAS DE FORNCTO FOLHAS DE CHEQUES-PF             5,00               34,26             1,71
+     15.17   7.1.7.98.02.04-4 RDAS SERV S/ TARIFAS DE SUSTACAO/REVOGACAO CHEQ             5,00            3.926,50           196,32
+     15.17   7.1.7.98.02.05-2 RDAS DE SERV S/ TARIFAS DE FORNCTO DE CHEQUE PJ             5,00              232,60            11,63
+     15.18   7.1.7.97.15.01-0 RENDAS DE SERV S/ TARIFAS DE CREDITO IMOBILIARIO            5,00           15.175,98           758,79
+     15.18   7.1.7.97.15.11-7 RDAS SERV S/ TARIFAS DE CRED IMOBILIARIO-OR FGTS            5,00            6.001,24           300,04
+     15.18   7.1.7.99.15.01-9 RDAS DE SERVS EM OP CRED IMOBILIARIO                        5,00            3.592,60           179,63
+     15.18   7.1.7.99.15.21-3 RENDAS DE TAR SERV PREST EM OP CRED IMOB OR FGTS            5,00           15.360,08           767,98
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 19 - DIST E VENDA DE LOTERIA, BINGOS, CARTOES, PULES, CUPONS, SORT, TIT C
+     19.01   7.1.7.80.10.09-8 RDAS DE SERV DE COMERCIALIZACAO-TITULOS DE CAPTZ            3,00               30,94             0,92
+0                                TOTAL COD RECEITA: 001             ----------------------->            331.057,83        16.551,67
+ 
+0                                TOTAL GERAL ---------------------------------------------->            334.861,83        16.741,85
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             3189            PAG:    3
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 3189-5 - NOVO GAMA, GO                                                                           PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 3189-5 NOVO GAMA, GO                         CNPJ: 00.360.305.3189-70              INSC. MUNICIPAL: 2471
+0MUNICIPIO: 52-1523-1 NOVO GAMA                            PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+ 
+0 ------------------------------ R E S U M O: T O T A I S   P O R   C O D  I G O   D E   R E C E I T A ------------------------------
+0                    CODIGO DE RECEITA                              BASE DE CALCULO                   ISSQN
+                          N/CAD                                            3.804,00                  190,18
+                          001                                            331.057,83               16.551,67
+                          TOTAL GERAL                                    334.861,83               16.741,85
+0 ---------- R E S U M O: T O T A I S   P O R   I T E N S   E   S U B I T E N S   D A   L I S T A   D E   S E R V I C O S ----------
+0                    ITEM/SUBITEM DA LISTA DE SERVICO               BASE DE CALCULO                   ISSQN
+                          SUBITEM: 10.01                                   5.414,99                  270,68
+                          SUBITEM: 10.02                                     556,16                   27,80
+                             ITEM: 10                                      5.971,15                  298,48
+                          SUBITEM: 15.02                                   9.413,56                  470,67
+                          SUBITEM: 15.05                                   3.804,00                  190,18
+                          SUBITEM: 15.06                                   1.543,20                   77,16
+                          SUBITEM: 15.07                                  69.915,75                3.495,76
+                          SUBITEM: 15.08                                  27.255,14                1.362,73
+                          SUBITEM: 15.10                                 128.594,96                6.429,55
+                          SUBITEM: 15.14                                   4.478,60                  223,88
+                          SUBITEM: 15.15                                  35.447,58                1.772,33
+                          SUBITEM: 15.16                                   3.934,19                  196,62
+                          SUBITEM: 15.17                                   4.342,86                  217,13
+                          SUBITEM: 15.18                                  40.129,90                2.006,44
+                             ITEM: 15                                    328.859,74               16.442,45
+                          SUBITEM: 19.01                                      30,94                    0,92
+                             ITEM: 19                                         30,94                    0,92
+                          TOTAL GERAL                                    334.861,83               16.741,85
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             3189            PAG:    4
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 3189-5 - NOVO GAMA, GO                                                                           PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 3189-5 NOVO GAMA, GO                         CNPJ: 00.360.305.3189-70              INSC. MUNICIPAL: 2471
+0MUNICIPIO: 52-1523-1 NOVO GAMA                            PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+0 ----------------------------------------------- R E S U M O   D A    U N I D A D E -----------------------------------------------
+0               ISSQN APURADO (R$) ----------------             16.741,85
+0               AJUSTES (R$):
+                      ( - ) INCENTIVO FISCAL ------                  0,00
+                      ( - ) ISSQN RETIDO NA FONTE -                  0,00
+                      ( - ) CREDITO TRIBUTARIO ----                  0,00
+0               ISSQN A PAGAR (R$) ----------------             16.741,85

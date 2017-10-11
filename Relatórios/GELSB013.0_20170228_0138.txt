@@ -1,0 +1,125 @@
+102/03/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         0138         PAG -      1
+ 
+ 01:42:19                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:02/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/03/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 0138-4  PARACATU, MG                             UNID. RECOLHIMENTO: 0138-4  PARACATU, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 31.4700-6  NOME: PARACATU                             UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 0138-4  PARACATU, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 11-008357.1 LOTERICA PARACATU LTDA                   CPF/CNPJ: 03.705.799/0001-00  INSC. ISS: -65  0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         611,00                 52,61           0,00              0,00
+    0591 LOTOFACIL                                                   38.232,00              3.292,12           0,00              0,00
+    0592 TIMEMANIA                                                    4.800,00                432,00           0,00              0,00
+    0595 LOTOGOL                                                        157,00                 13,48           0,00              0,00
+    0740 QUINA                                                       41.878,50              3.605,44           0,00              0,00
+    0741 MEGASENA                                                    67.473,00              5.810,76           0,00              0,00
+    0745 LOTOMANIA                                                   14.695,50              1.265,35           0,00              0,00
+    0749 DUPLA SENA                                                  10.250,00                882,53           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                           178.097,00             15.354,29                             0,00
+ 
+    0761 LOTERIA FEDERAL                                                600,40                 30,02           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                               600,40                 30,02                             0,00
+ 
+    TOTAL CD:                                                       178.697,40             15.384,31                             0,00
+0
+ 11-008358.0 ZEBRINHA DA SORTE LTDA                   CPF/CNPJ: 03.705.754/0001-35  INSC. ISS: 61-260  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         386,00                 33,23           0,00              0,00
+    0591 LOTOFACIL                                                   33.244,00              2.862,51           0,00              0,00
+    0592 TIMEMANIA                                                    3.046,00                274,14           0,00              0,00
+    0595 LOTOGOL                                                        170,00                 14,61           0,00              0,00
+    0740 QUINA                                                       25.927,50              2.231,48           0,00              0,00
+    0741 MEGASENA                                                    48.748,00              4.198,09           0,00              0,00
+    0745 LOTOMANIA                                                   14.148,00              1.218,19           0,00              0,00
+    0749 DUPLA SENA                                                   7.040,00                606,09           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                           132.709,50             11.438,34                             0,00
+ 
+    0761 LOTERIA FEDERAL                                                600,40                 30,02           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                               600,40                 30,02                             0,00
+ 
+    TOTAL CD:                                                       133.309,90             11.468,36                             0,00
+0
+ 11-020991.5 BIG SORTE LTDA ME                        CPF/CNPJ: 13.346.240/0001-94  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         249,00                 21,43           0,00              0,00
+    0591 LOTOFACIL                                                   16.446,00              1.416,13           0,00              0,00
+    0592 TIMEMANIA                                                    1.150,00                103,50           0,00              0,00
+    0595 LOTOGOL                                                        181,00                 15,54           0,00              0,00
+    0740 QUINA                                                       11.245,50                967,33           0,00              0,00
+    0741 MEGASENA                                                    13.874,00              1.194,71           0,00              0,00
+    0745 LOTOMANIA                                                    5.083,50                437,59           0,00              0,00
+    0749 DUPLA SENA                                                   2.296,00                197,64           0,00              0,00
+102/03/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         0138         PAG -      2
+ 
+ 01:42:19                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:02/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/03/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 0138-4  PARACATU, MG                             UNID. RECOLHIMENTO: 0138-4  PARACATU, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 31.4700-6  NOME: PARACATU                             UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 0138-4  PARACATU, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+    TOTAL/CANAL LOTERICO:                                            50.525,00              4.353,87                             0,00
+ 
+    0761 LOTERIA FEDERAL                                                285,40                 14,27           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                               285,40                 14,27                             0,00
+ 
+    TOTAL CD:                                                        50.810,40              4.368,14                             0,00
+0
+ 11-023870.2 TREDE E VAZ LTDA  ME                     CPF/CNPJ: 18.909.045/0001-49  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         168,00                 14,45           0,00              0,00
+    0591 LOTOFACIL                                                   14.380,00              1.238,18           0,00              0,00
+    0592 TIMEMANIA                                                    1.120,00                100,80           0,00              0,00
+    0595 LOTOGOL                                                         59,00                  5,04           0,00              0,00
+    0740 QUINA                                                        9.165,00                788,65           0,00              0,00
+    0741 MEGASENA                                                    16.828,00              1.449,18           0,00              0,00
+    0745 LOTOMANIA                                                    4.282,50                368,72           0,00              0,00
+    0749 DUPLA SENA                                                   2.426,00                208,84           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                            48.428,50              4.173,86                             0,00
+ 
+    0761 LOTERIA FEDERAL                                                237,20                 11,86           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                               237,20                 11,86                             0,00
+ 
+    TOTAL CD:                                                        48.665,70              4.185,72                             0,00
+0
+ TOTAL PONTO DE VENDA:                                              411.483,40             35.406,53                             0,00
+0
+102/03/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         0138         PAG -      1
+ 
+ 01:42:19                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:02/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/03/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 31.4700-6  NOME: PARACATU                             UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                       1.414,00                121,72                             0,00
+    0591 LOTOFACIL                                                  102.302,00              8.808,94                             0,00
+    0592 TIMEMANIA                                                   10.116,00                910,44                             0,00
+    0595 LOTOGOL                                                        567,00                 48,67                             0,00
+    0740 QUINA                                                       88.216,50              7.592,90                             0,00
+    0741 MEGASENA                                                   146.923,00             12.652,74                             0,00
+    0745 LOTOMANIA                                                   38.209,50              3.289,85                             0,00
+    0749 DUPLA SENA                                                  22.012,00              1.895,10                             0,00
+    0761 LOTERIA FEDERAL                                              1.723,40                 86,17                             0,00
+0
+ TOTAL GERAL:                                                       411.483,40             35.406,53                             0,00

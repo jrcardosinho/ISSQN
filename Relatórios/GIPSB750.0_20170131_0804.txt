@@ -1,0 +1,175 @@
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0804            PAG:    1
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0804-4 - LUZIANIA, GO                                                                            PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0804-4 LUZIANIA, GO                          CNPJ: 00.360.305.0804-69              INSC. MUNICIPAL: 200381
+0MUNICIPIO: 52-1250-1 LUZIANIA                             PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 10 - SERVICOS DE INTERMEDIACAO E CONGENERES
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     10.01   7.1.7.80.10.29-2 RENDAS DE PREST DE SERVICOS-PROD CAIXA SEGUROS              3,00           13.715,77           411,40
+     10.02   7.1.7.99.55.24-0 RDAS DE TARIFAS AFILIACAO ESTAB COMERCIAL                   3,00              146,02             4,38
+     10.09   7.1.7.80.10.30-6 RENDAS DE TARIFAS DE CONSORCIO CAIXA SEGUROS                3,00               38,64             1,15
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+     15.02   7.1.7.98.99.04-8 RDAS DE TARIFAS S/ A MANUT CONTAS INATIVAS PJ               3,00               55,50             1,66
+     15.02   7.1.7.99.55.12-6 RDAS DE TARIFAS S/ MANUTENCAO DE CONTAS ATIVAS              3,00           17.374,59           521,23
+     15.05   7.1.7.98.01.01-3 RDAS DE SERV S/ TARIFAS DE CADASTRO/RENOV PJ                3,00            1.551,50            46,54
+     15.05   7.1.7.98.02.03-6 RDAS DE SERV S/ TARIFAS DE EXCLUSAO DO CCF PJ               3,00            2.672,60            80,17
+     15.05   7.1.7.99.10.81-5 RDAS DE SERVS CONVENIO CADASTRAMENTO/REGUL CPF              3,00              154,00             4,62
+     15.06   7.1.7.98.02.10-9 RDAS TARIFAS PJ-FORNCTO DE MICROFILME/MICHOFICHA            3,00              539,82            16,19
+     15.06   7.1.7.99.55.40-1 RDAS DE TARIFAS MALOTE EMPRESARIAL PF                       3,00              130,00             3,90
+     15.06   7.1.7.99.55.41-0 RDAS DE TARIFAS MALOTE EMPRESARIAL PJ                       3,00            1.690,00            50,70
+     15.07   7.1.7.94.01.01-5 RENDAS DE CESTA DE SERVICOS-PF                              3,00           73.546,97         2.206,41
+     15.07   7.1.7.95.13.02-6 RDAS DE TARIFAS DE EMISSAO EXTRATO ELETRONICO PF            3,00            1.495,35            44,85
+     15.07   7.1.7.98.02.09-5 RDAS DE SERV TARIFAS DE EXTRATO EXCEDENTE PJ                3,00              812,00            24,35
+     15.07   7.1.7.98.99.01-3 RENDAS DE TARIFAS SOBRE PACOTES DE SERVICOS PJ              3,00           20.938,33           628,15
+     15.07   7.1.7.99.10.16-5 RENDAS DE SERVICOS PRESTADOS A CORRENTISTAS                 3,00              160,00             4,80
+     15.07   7.1.7.99.55.22-3 RDAS DE TARIFAS-COMPARTILHAMENTO DE REDE                    3,00              585,94            17,57
+     15.08   7.1.7.95.19.01-6 RENDAS DE TARIFAS SOBRE ADEP-PF                             3,00           13.331,28           399,93
+     15.08   7.1.7.97.10.09-3 RDAS S/ TARIFA DE ABERTURA/RENOV DE OP DE CRED              3,00              520,16            15,59
+     15.08   7.1.7.98.04.01-2 RDAS TARIFAS PJ S/ ADIANTAMENTO A DEPOSITANTES              3,00            3.016,00            90,48
+     15.08   7.1.7.99.55.13-4 RENDAS DE TARIFAS MANUTENCAO DO CREDITO ROTATIVO            3,00            2.712,44            81,38
+     15.08   7.1.7.99.55.15-0 RDAS DE TARIFAS S/ MANUTENCAO CREDITO GIROCAIXA             3,00               24,50             0,73
+     15.08   7.1.7.99.55.30-4 RDAS DE TARIFAS ABERTURA/RENOVACAO OP CRED PJ               3,00            8.676,25           260,28
+     15.10   7.1.7.40.10.01-8 RENDAS DE SERVICOS DE COBRANCA DE TITULOS                   3,00           23.749,78           712,46
+     15.10   7.1.7.80.10.02-0 RDAS SERVS PREST LIG -CX SEGUROS DEBITO EM CONTA            3,00               76,20             2,21
+     15.10   7.1.7.80.10.17-9 RENDAS DE TARIFAS DE SERVICOS DE ARRECADACAO                3,00              372,20            11,16
+     15.10   7.1.7.99.20.09-8 RENDAS DE TARIFA DE SERVS PREST A CONVENENTES               3,00            8.060,64           241,80
+     15.10   7.1.7.99.20.11-0 RENDAS DE TARIFA DE SERVS PREST A CONVEN SICAP              3,00           95.780,10         2.873,35
+     15.10   7.1.7.99.20.13-6 RENDAS DE TARIFA SERVICOS DE RECEBIMENTO DO FGTS            3,00            2.080,28            62,40
+     15.10   7.1.7.99.20.14-4 RENDAS DE TARIFA DE SERVS PREST A ORGAOS PUB FED            3,00            1.937,55            58,10
+     15.10   7.1.7.99.20.16-0 RENDAS DE TARIFA ARREC DE TRIB E REC ESTADUAIS              3,00            8.714,80           261,42
+     15.10   7.1.7.99.20.32-2 RENDAS DE TARIFA ARREC CONTRIBUICAO SINDICAL                3,00              229,88             6,89
+     15.10   7.1.7.80.10.20-9 OUTRAS RENDAS DE SERVICOS PRESTADOS A LIGADAS               3,00               19,62             0,58
+     15.10   7.1.7.99.10.60-2 RDAS DE SERVS SOBRE O PGTO DO FDO GARANTIA SAFRA            3,00               16,64             0,49
+     15.10   7.1.7.99.20.05-5 RDAS DE SERVS - PAGTO DO FGTS                               3,00           16.739,02           502,17
+     15.10   7.1.7.99.20.06-3 RENDAS DE TARIFA SOBRE O PAGTO DE SEG DESEMPREGO            3,00            2.351,53            70,54
+     15.10   7.1.7.99.20.10-1 RENDAS DE TAR DE SERVS PREST A CONVEN DO SIACC              3,00            4.288,35           128,61
+     15.10   7.1.7.99.20.15-2 RENDAS DE TARIFA DE ARRECADACAO DO INSS                     3,00            1.964,84            58,94
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0804            PAG:    2
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0804-4 - LUZIANIA, GO                                                                            PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0804-4 LUZIANIA, GO                          CNPJ: 00.360.305.0804-69              INSC. MUNICIPAL: 200381
+0MUNICIPIO: 52-1250-1 LUZIANIA                             PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     15.10   7.1.7.99.20.73-0 PROGRAMAS SOCIAIS-TARIFA DE PRESTACAO DE SERVICO            3,00           14.654,81           439,64
+     15.12   7.1.7.70.10.01-9 RENDAS DE SERVICOS DE CUSTODIA PRESTADOS A PJ               3,00                6,40             0,19
+     15.14   7.1.7.95.03.01-2 RENDAS DE TARIFAS DE 2  VIA DE CARTAO DE DEBITO             3,00              158,05             4,74
+     15.14   7.1.7.95.04.01-9 RENDAS DE FORNECIMENTO DE 2  VIA CARTAO POUPANCA            3,00            2.351,62            70,54
+     15.14   7.1.7.95.20.01-4 RDAS DE TARIFAS ANUIDADE INICIAL CCRED BASICO-PF            3,00               71,60             2,14
+     15.14   7.1.7.95.21.01-0 RENDAS DE TARIFA DE EMISS O DE SEGUNDA CCRED                3,00              272,00             8,16
+     15.14   7.1.7.96.05.01-0 RENDAS DE ANUIDADE PARA CCRED DIFERENCIADO                  3,00            3.085,63            92,56
+     15.14   7.1.7.98.99.08-0 RENDAS SOBRE TARIFA DE ANUIDADE INICIAL PJ                  3,00              102,99             3,08
+     15.14   7.1.7.99.20.23-3 RENDAS DE TARIFA SOBRE SERVICOS CARTOES SOCIAIS             3,00              433,08            12,99
+     15.15   7.1.7.95.11.01-5 RENDAS DE TARIFAS PF-SAQUES GUICHE DE CAIXA                 3,00              815,17            24,44
+     15.15   7.1.7.95.11.02-3 RENDAS DE TARIFAS PF-SAQUES AUTO-ATENDIMENTO                3,00           39.686,42         1.190,58
+     15.15   7.1.7.95.11.03-1 RENDAS DE TARIFAS PF-SAQUES EM CORRESPONDENTES              3,00            9.511,31           285,32
+     15.15   7.1.7.98.02.08-7 RENDAS DE SERVICO S/ TARIFA DE SAQUE EXCEDENTE              3,00              890,00            26,70
+     15.16   7.1.7.95.15.01-0 RENDAS DE TARIFAS PF - DOC PESSOAL                          3,00               29,40             0,88
+     15.16   7.1.7.95.15.02-9 RENDAS DE TARIFAS S/EMISSAO DE DOC ELETR-PF                 3,00              274,75             8,24
+     15.16   7.1.7.95.15.03-7 RENDAS DE TARIFAS S/EMISS O DE DOC VIA IBC-PF               3,00              306,15             9,18
+     15.16   7.1.7.95.15.04-5 RENDAS DE TARIFAS PF - TED PESSOAL VIA CIP                  3,00            2.816,22            84,47
+     15.16   7.1.7.95.15.06-1 RDAS DE TARIFAS S/EMISSAO DE TED CIP VIA IBC-PF             3,00            1.146,10            34,38
+     15.16   7.1.7.95.15.07-0 RDAS DE TARIFAS S/EMISSAO TED PESSOAL VIA STR-PF            3,00               29,40             0,88
+     15.16   7.1.7.95.15.09-6 RDAS DE TARIFAS S/EMISSAO DE TED STR VIA IBC-PF             3,00               15,70             0,47
+     15.16   7.1.7.95.15.10-0 RDAS TARIFAS DE TED STR/CIP PESSOAL-PF                      3,00              984,90            29,54
+     15.16   7.1.7.95.17.02-1 RDAS DE TARIFAS S/EMISSAO DE TEV-CLIENTES PF                3,00              585,73            17,56
+     15.16   7.1.7.96.04.02-1 RDAS DE SERVS DIFERENCIADOS A PF OP DE CAMBIO               3,00              127,70             3,83
+     15.16   7.1.7.98.03.02-4 RENDAS DE TARIFAS PJ SOBRE EMISSAO DE DOC                   3,00              730,05            21,89
+     15.16   7.1.7.98.03.03-2 RENDAS DE TARIFAS PJ  S/ EMISSAO DE TED VIA STR             3,00               39,25             1,17
+     15.16   7.1.7.98.03.04-0 RENDAS DE TARIFAS PJ S/ EMISSAO DE TED VIA CIP              3,00            2.426,20            72,77
+     15.16   7.1.7.98.03.07-5 RDAS TARIFAS PJ SOBRE EMISSAO TED STR/CIP                   3,00              220,50             6,61
+     15.17   7.1.7.95.06.01-1 RENDAS DE TARIFAS SUSTACAO/REVOGACAO CHEQUES-PF             3,00              149,50             4,48
+     15.17   7.1.7.95.07.01-8 RDAS DE TARIFAS DE FORNCTO FOLHAS DE CHEQUES-PF             3,00              338,75            10,16
+     15.17   7.1.7.96.99.09-0 RENDAS SERVICOS S/ ENVIO DE TALAO CHEQUE VIA ECT            3,00                9,90             0,29
+     15.17   7.1.7.98.02.04-4 RDAS SERV S/ TARIFAS DE SUSTACAO/REVOGACAO CHEQ             3,00            5.320,00           159,59
+     15.17   7.1.7.98.02.05-2 RDAS DE SERV S/ TARIFAS DE FORNCTO DE CHEQUE PJ             3,00              218,80             6,56
+     15.18   7.1.7.97.15.01-0 RENDAS DE SERV S/ TARIFAS DE CREDITO IMOBILIARIO            3,00           14.825,00           444,75
+     15.18   7.1.7.97.15.11-7 RDAS SERV S/ TARIFAS DE CRED IMOBILIARIO-OR FGTS            3,00            7.243,69           217,27
+     15.18   7.1.7.99.15.01-9 RDAS DE SERVS EM OP CRED IMOBILIARIO                        3,00            5.693,00           170,79
+     15.18   7.1.7.99.15.06-0 RDAS DE SERVS TARIFA OPER MENSAL CRED IMOB-PF               3,00               75,00             2,25
+     15.18   7.1.7.99.15.21-3 RENDAS DE TAR SERV PREST EM OP CRED IMOB OR FGTS            3,00           17.724,59           531,69
+     15.18   7.1.7.99.18.21-2 RENDAS DE SERVS PRESTADOS SAN E DES URB OR FGTS             3,00            4.159,83           124,80
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 19 - DIST E VENDA DE LOTERIA, BINGOS, CARTOES, PULES, CUPONS, SORT, TIT C
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0804            PAG:    3
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0804-4 - LUZIANIA, GO                                                                            PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0804-4 LUZIANIA, GO                          CNPJ: 00.360.305.0804-69              INSC. MUNICIPAL: 200381
+0MUNICIPIO: 52-1250-1 LUZIANIA                             PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 19 - DIST E VENDA DE LOTERIA, BINGOS, CARTOES, PULES, CUPONS, SORT, TIT C
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     19.01   7.1.7.80.10.09-8 RDAS DE SERV DE COMERCIALIZACAO-TITULOS DE CAPTZ            3,00               86,71             2,58
+0                                TOTAL COD RECEITA: N/CAD           ----------------------->            467.884,99        14.035,74
+ 
+0                                TOTAL GERAL ---------------------------------------------->            467.884,99        14.035,74
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0804            PAG:    4
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0804-4 - LUZIANIA, GO                                                                            PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0804-4 LUZIANIA, GO                          CNPJ: 00.360.305.0804-69              INSC. MUNICIPAL: 200381
+0MUNICIPIO: 52-1250-1 LUZIANIA                             PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+ 
+0 ------------------------------ R E S U M O: T O T A I S   P O R   C O D  I G O   D E   R E C E I T A ------------------------------
+0                    CODIGO DE RECEITA                              BASE DE CALCULO                   ISSQN
+                          N/CAD                                          467.884,99               14.035,74
+                          TOTAL GERAL                                    467.884,99               14.035,74
+0 ---------- R E S U M O: T O T A I S   P O R   I T E N S   E   S U B I T E N S   D A   L I S T A   D E   S E R V I C O S ----------
+0                    ITEM/SUBITEM DA LISTA DE SERVICO               BASE DE CALCULO                   ISSQN
+                          SUBITEM: 10.01                                  13.715,77                  411,40
+                          SUBITEM: 10.02                                     146,02                    4,38
+                          SUBITEM: 10.09                                      38,64                    1,15
+                             ITEM: 10                                     13.900,43                  416,93
+                          SUBITEM: 15.02                                  17.430,09                  522,89
+                          SUBITEM: 15.05                                   4.378,10                  131,33
+                          SUBITEM: 15.06                                   2.359,82                   70,79
+                          SUBITEM: 15.07                                  97.538,59                2.926,13
+                          SUBITEM: 15.08                                  28.280,63                  848,39
+                          SUBITEM: 15.10                                 181.036,24                5.430,76
+                          SUBITEM: 15.12                                       6,40                    0,19
+                          SUBITEM: 15.14                                   6.474,97                  194,21
+                          SUBITEM: 15.15                                  50.902,90                1.527,04
+                          SUBITEM: 15.16                                   9.732,05                  291,87
+                          SUBITEM: 15.17                                   6.036,95                  181,08
+                          SUBITEM: 15.18                                  49.721,11                1.491,55
+                             ITEM: 15                                    453.897,85               13.616,23
+                          SUBITEM: 19.01                                      86,71                    2,58
+                             ITEM: 19                                         86,71                    2,58
+                          TOTAL GERAL                                    467.884,99               14.035,74
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0804            PAG:    5
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0804-4 - LUZIANIA, GO                                                                            PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0804-4 LUZIANIA, GO                          CNPJ: 00.360.305.0804-69              INSC. MUNICIPAL: 200381
+0MUNICIPIO: 52-1250-1 LUZIANIA                             PV RECOLHIMENTO:
+0------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+0 ----------------------------------------------- R E S U M O   D A    U N I D A D E -----------------------------------------------
+0               ISSQN APURADO (R$) ----------------             14.035,74
+0               AJUSTES (R$):
+                      ( - ) INCENTIVO FISCAL ------                  0,00
+                      ( - ) ISSQN RETIDO NA FONTE -                  0,00
+                      ( - ) CREDITO TRIBUTARIO ----                  0,00
+0               ISSQN A PAGAR (R$) ----------------             14.035,74

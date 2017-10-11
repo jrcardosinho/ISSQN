@@ -1,0 +1,185 @@
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0643            PAG:    1
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0643-2 - GUARA, DF                                                                               PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0643-2 GUARA, DF                             CNPJ: 00.360.305.0643-40              INSC. MUNICIPAL: 0731282504243
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 10 - SERVICOS DE INTERMEDIACAO E CONGENERES
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     10.01   7.1.7.80.10.29-2 RENDAS DE PREST DE SERVICOS-PROD CAIXA SEGUROS              5,00            6.067,99           303,33
+     10.02   7.1.7.96.07.01-2 RENDAS DE CORRETAGEM TVM E DERIVATIVOS-PF                   5,00               58,15             2,90
+     10.02   7.1.7.99.55.24-0 RDAS DE TARIFAS AFILIACAO ESTAB COMERCIAL                   5,00              212,34            10,61
+     10.09   7.1.7.80.10.30-6 RENDAS DE TARIFAS DE CONSORCIO CAIXA SEGUROS                2,00              694,21            13,87
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+     15.02   7.1.7.99.55.12-6 RDAS DE TARIFAS S/ MANUTENCAO DE CONTAS ATIVAS              5,00           15.118,71           755,93
+     15.05   7.1.7.98.01.01-3 RDAS DE SERV S/ TARIFAS DE CADASTRO/RENOV PJ                5,00            1.330,00            66,50
+     15.05   7.1.7.98.02.03-6 RDAS DE SERV S/ TARIFAS DE EXCLUSAO DO CCF PJ               5,00              978,05            48,90
+     15.05   7.1.7.99.10.81-5 RDAS DE SERVS CONVENIO CADASTRAMENTO/REGUL CPF              5,00              423,50            21,17
+     15.06   7.1.7.97.10.02-6 RENDAS SERV FORNCTO COPIAS E 2A VIA COMPRV/DOC              5,00               35,00             1,75
+     15.06   7.1.7.98.02.10-9 RDAS TARIFAS PJ-FORNCTO DE MICROFILME/MICHOFICHA            5,00              170,54             8,52
+     15.06   7.1.7.99.10.56-4 RDAS DE SERVS S/ EMISSAO CERTIFICACAO DIGITAL-PJ            5,00              340,00            17,00
+     15.06   7.1.7.99.55.41-0 RDAS DE TARIFAS MALOTE EMPRESARIAL PJ                       5,00              910,00            45,50
+     15.07   7.1.7.94.01.01-5 RENDAS DE CESTA DE SERVICOS-PF                              5,00           83.784,51         4.189,22
+     15.07   7.1.7.95.13.02-6 RDAS DE TARIFAS DE EMISSAO EXTRATO ELETRONICO PF            5,00            1.436,33            71,81
+     15.07   7.1.7.96.99.10-3 RENDAS DE SERVICO S/ ENVIO DE EXTRATO ECT/PF                5,00               17,50             0,87
+     15.07   7.1.7.98.02.09-5 RDAS DE SERV TARIFAS DE EXTRATO EXCEDENTE PJ                5,00              749,25            37,46
+     15.07   7.1.7.98.99.01-3 RENDAS DE TARIFAS SOBRE PACOTES DE SERVICOS PJ              5,00           30.978,38         1.548,91
+     15.07   7.1.7.99.10.16-5 RENDAS DE SERVICOS PRESTADOS A CORRENTISTAS                 5,00              100,00             5,00
+     15.07   7.1.7.99.55.22-3 RDAS DE TARIFAS-COMPARTILHAMENTO DE REDE                    5,00            2.984,76           149,23
+     15.08   7.1.7.95.19.01-6 RENDAS DE TARIFAS SOBRE ADEP-PF                             5,00           13.991,23           699,56
+     15.08   7.1.7.97.10.09-3 RDAS S/ TARIFA DE ABERTURA/RENOV DE OP DE CRED              5,00           37.054,14         1.852,70
+     15.08   7.1.7.98.04.01-2 RDAS TARIFAS PJ S/ ADIANTAMENTO A DEPOSITANTES              5,00            2.652,00           132,60
+     15.08   7.1.7.99.55.13-4 RENDAS DE TARIFAS MANUTENCAO DO CREDITO ROTATIVO            5,00            3.640,00           182,00
+     15.08   7.1.7.99.55.30-4 RDAS DE TARIFAS ABERTURA/RENOVACAO OP CRED PJ               5,00            6.753,00           337,64
+     15.10   7.1.7.40.10.01-8 RENDAS DE SERVICOS DE COBRANCA DE TITULOS                   5,00           35.028,18         1.751,38
+     15.10   7.1.7.80.10.02-0 RDAS SERVS PREST LIG -CX SEGUROS DEBITO EM CONTA            5,00               35,40             1,77
+     15.10   7.1.7.80.10.17-9 RENDAS DE TARIFAS DE SERVICOS DE ARRECADACAO                5,00              316,90            15,84
+     15.10   7.1.7.99.20.09-8 RENDAS DE TARIFA DE SERVS PREST A CONVENENTES               5,00            4.793,63           239,63
+     15.10   7.1.7.99.20.11-0 RENDAS DE TARIFA DE SERVS PREST A CONVEN SICAP              5,00           38.654,62         1.932,66
+     15.10   7.1.7.99.20.13-6 RENDAS DE TARIFA SERVICOS DE RECEBIMENTO DO FGTS            5,00            1.789,46            89,47
+     15.10   7.1.7.99.20.14-4 RENDAS DE TARIFA DE SERVS PREST A ORGAOS PUB FED            5,00            1.412,17            70,59
+     15.10   7.1.7.99.20.16-0 RENDAS DE TARIFA ARREC DE TRIB E REC ESTADUAIS              5,00            3.717,67           185,87
+     15.10   7.1.7.99.20.32-2 RENDAS DE TARIFA ARREC CONTRIBUICAO SINDICAL                5,00              293,88            14,69
+     15.10   7.1.7.80.10.20-9 OUTRAS RENDAS DE SERVICOS PRESTADOS A LIGADAS               5,00               22,40             1,11
+     15.10   7.1.7.99.10.60-2 RDAS DE SERVS SOBRE O PGTO DO FDO GARANTIA SAFRA            5,00                2,08             0,10
+     15.10   7.1.7.99.20.05-5 RDAS DE SERVS - PAGTO DO FGTS                               5,00            9.636,30           481,81
+     15.10   7.1.7.99.20.06-3 RENDAS DE TARIFA SOBRE O PAGTO DE SEG DESEMPREGO            5,00            1.553,53            77,66
+     15.10   7.1.7.99.20.10-1 RENDAS DE TAR DE SERVS PREST A CONVEN DO SIACC              5,00            3.699,59           184,94
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0643            PAG:    2
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0643-2 - GUARA, DF                                                                               PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0643-2 GUARA, DF                             CNPJ: 00.360.305.0643-40              INSC. MUNICIPAL: 0731282504243
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     15.10   7.1.7.99.20.15-2 RENDAS DE TARIFA DE ARRECADACAO DO INSS                     5,00            1.368,97            68,44
+     15.10   7.1.7.99.20.36-5 RENDAS DE SERV PROGRAMA DE VOLTA PRA CASA                   5,00                9,05             0,45
+     15.10   7.1.7.99.20.73-0 PROGRAMAS SOCIAIS-TARIFA DE PRESTACAO DE SERVICO            5,00            3.606,13           180,29
+     15.12   7.1.7.70.10.01-9 RENDAS DE SERVICOS DE CUSTODIA PRESTADOS A PJ               5,00               33,80             1,69
+     15.12   7.1.7.97.10.01-8 RENDAS SERVICOS ESPECIAIS PF SOBRE CUSTODIA                 5,00              216,41            10,82
+     15.14   7.1.7.95.03.01-2 RENDAS DE TARIFAS DE 2  VIA DE CARTAO DE DEBITO             5,00              126,20             6,31
+     15.14   7.1.7.95.04.01-9 RENDAS DE FORNECIMENTO DE 2  VIA CARTAO POUPANCA            5,00            2.020,87           101,04
+     15.14   7.1.7.95.20.01-4 RDAS DE TARIFAS ANUIDADE INICIAL CCRED BASICO-PF            5,00               53,31             2,66
+     15.14   7.1.7.95.21.01-0 RENDAS DE TARIFA DE EMISS O DE SEGUNDA CCRED                5,00              355,80            17,78
+     15.14   7.1.7.96.05.01-0 RENDAS DE ANUIDADE PARA CCRED DIFERENCIADO                  5,00            4.895,40           244,76
+     15.14   7.1.7.98.99.08-0 RENDAS SOBRE TARIFA DE ANUIDADE INICIAL PJ                  5,00               70,00             3,50
+     15.14   7.1.7.99.20.23-3 RENDAS DE TARIFA SOBRE SERVICOS CARTOES SOCIAIS             5,00              352,88            17,64
+     15.15   7.1.7.95.11.01-5 RENDAS DE TARIFAS PF-SAQUES GUICHE DE CAIXA                 5,00            1.066,44            53,32
+     15.15   7.1.7.95.11.02-3 RENDAS DE TARIFAS PF-SAQUES AUTO-ATENDIMENTO                5,00           31.795,06         1.589,74
+     15.15   7.1.7.95.11.03-1 RENDAS DE TARIFAS PF-SAQUES EM CORRESPONDENTES              5,00            6.689,75           334,47
+     15.15   7.1.7.98.02.08-7 RENDAS DE SERVICO S/ TARIFA DE SAQUE EXCEDENTE              5,00              747,70            37,38
+     15.16   7.1.7.95.15.02-9 RENDAS DE TARIFAS S/EMISSAO DE DOC ELETR-PF                 5,00              376,80            18,84
+     15.16   7.1.7.95.15.03-7 RENDAS DE TARIFAS S/EMISS O DE DOC VIA IBC-PF               5,00              839,95            41,99
+     15.16   7.1.7.95.15.04-5 RENDAS DE TARIFAS PF - TED PESSOAL VIA CIP                  5,00            4.585,22           229,25
+     15.16   7.1.7.95.15.06-1 RDAS DE TARIFAS S/EMISSAO DE TED CIP VIA IBC-PF             5,00            2.252,95           112,64
+     15.16   7.1.7.95.15.07-0 RDAS DE TARIFAS S/EMISSAO TED PESSOAL VIA STR-PF            5,00               44,10             2,20
+     15.16   7.1.7.95.15.09-6 RDAS DE TARIFAS S/EMISSAO DE TED STR VIA IBC-PF             5,00              157,00             7,85
+     15.16   7.1.7.95.15.10-0 RDAS TARIFAS DE TED STR/CIP PESSOAL-PF                      5,00              426,30            21,31
+     15.16   7.1.7.95.17.02-1 RDAS DE TARIFAS S/EMISSAO DE TEV-CLIENTES PF                5,00              901,91            45,08
+     15.16   7.1.7.96.04.02-1 RDAS DE SERVS DIFERENCIADOS A PF OP DE CAMBIO               5,00              251,70            12,58
+     15.16   7.1.7.98.03.02-4 RENDAS DE TARIFAS PJ SOBRE EMISSAO DE DOC                   5,00            1.428,70            71,43
+     15.16   7.1.7.98.03.03-2 RENDAS DE TARIFAS PJ  S/ EMISSAO DE TED VIA STR             5,00               94,20             4,71
+     15.16   7.1.7.98.03.04-0 RENDAS DE TARIFAS PJ S/ EMISSAO DE TED VIA CIP              5,00            3.400,60           170,03
+     15.16   7.1.7.98.03.07-5 RDAS TARIFAS PJ SOBRE EMISSAO TED STR/CIP                   5,00              102,90             5,14
+     15.17   7.1.7.95.06.01-1 RENDAS DE TARIFAS SUSTACAO/REVOGACAO CHEQUES-PF             5,00               34,50             1,72
+     15.17   7.1.7.95.07.01-8 RDAS DE TARIFAS DE FORNCTO FOLHAS DE CHEQUES-PF             5,00              168,00             8,40
+     15.17   7.1.7.96.99.09-0 RENDAS SERVICOS S/ ENVIO DE TALAO CHEQUE VIA ECT            5,00               39,60             1,98
+     15.17   7.1.7.98.02.04-4 RDAS SERV S/ TARIFAS DE SUSTACAO/REVOGACAO CHEQ             5,00            2.445,50           122,27
+     15.17   7.1.7.98.02.05-2 RDAS DE SERV S/ TARIFAS DE FORNCTO DE CHEQUE PJ             5,00              289,60            14,48
+     15.17   7.1.7.98.02.06-0 RDAS S/ TARIFA DE EMISSAO CHEQUE ADMINISTRATIVO             5,00               81,00             4,05
+     15.18   7.1.7.97.15.01-0 RENDAS DE SERV S/ TARIFAS DE CREDITO IMOBILIARIO            5,00           30.300,42         1.515,02
+     15.18   7.1.7.97.15.11-7 RDAS SERV S/ TARIFAS DE CRED IMOBILIARIO-OR FGTS            5,00            4.885,97           244,29
+     15.18   7.1.7.99.15.01-9 RDAS DE SERVS EM OP CRED IMOBILIARIO                        5,00            9.520,20           476,01
+     15.18   7.1.7.99.15.06-0 RDAS DE SERVS TARIFA OPER MENSAL CRED IMOB-PF               5,00              125,00             6,25
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0643            PAG:    3
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0643-2 - GUARA, DF                                                                               PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0643-2 GUARA, DF                             CNPJ: 00.360.305.0643-40              INSC. MUNICIPAL: 0731282504243
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     15.18   7.1.7.99.15.21-3 RENDAS DE TAR SERV PREST EM OP CRED IMOB OR FGTS            5,00           15.931,55           796,54
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 17 - SERVICOS APOIO TECNICO, ADMINISTO, JURIDICO, CONTABIL, COMERCIAL E C
+     17.13   7.1.7.97.10.03-4 RENDAS DE SERVICOS SOBRE PROCESSO DE LICITACAO              5,00              405,99-           20,29-
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 19 - DIST E VENDA DE LOTERIA, BINGOS, CARTOES, PULES, CUPONS, SORT, TIT C
+     19.01   7.1.7.80.10.09-8 RDAS DE SERV DE COMERCIALIZACAO-TITULOS DE CAPTZ            5,00               32,32             1,61
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 28 - SERVICOS DE AVALIACAO DE BENS E SERVICOS DE QUALQUER NATUREZA
+     28.01   7.1.7.99.15.12-4 RENDAS DE TARIFA DE AVALIACAO IMOVEIS EMGEA                 5,00            1.750,00            87,50
+0                                TOTAL COD RECEITA: N/CAD           ----------------------->            444.903,17        22.223,67
+ 
+0                                TOTAL GERAL ---------------------------------------------->            444.903,17        22.223,67
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0643            PAG:    4
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0643-2 - GUARA, DF                                                                               PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0643-2 GUARA, DF                             CNPJ: 00.360.305.0643-40              INSC. MUNICIPAL: 0731282504243
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+ 
+0 ------------------------------ R E S U M O: T O T A I S   P O R   C O D  I G O   D E   R E C E I T A ------------------------------
+0                    CODIGO DE RECEITA                              BASE DE CALCULO                   ISSQN
+                          N/CAD                                          444.903,17               22.223,67
+                          TOTAL GERAL                                    444.903,17               22.223,67
+0 ---------- R E S U M O: T O T A I S   P O R   I T E N S   E   S U B I T E N S   D A   L I S T A   D E   S E R V I C O S ----------
+0                    ITEM/SUBITEM DA LISTA DE SERVICO               BASE DE CALCULO                   ISSQN
+                          SUBITEM: 10.01                                   6.067,99                  303,33
+                          SUBITEM: 10.02                                     270,49                   13,51
+                          SUBITEM: 10.09                                     694,21                   13,87
+                             ITEM: 10                                      7.032,69                  330,71
+                          SUBITEM: 15.02                                  15.118,71                  755,93
+                          SUBITEM: 15.05                                   2.731,55                  136,57
+                          SUBITEM: 15.06                                   1.455,54                   72,77
+                          SUBITEM: 15.07                                 120.050,73                6.002,50
+                          SUBITEM: 15.08                                  64.090,37                3.204,50
+                          SUBITEM: 15.10                                 105.939,96                5.296,70
+                          SUBITEM: 15.12                                     250,21                   12,51
+                          SUBITEM: 15.14                                   7.874,46                  393,69
+                          SUBITEM: 15.15                                  40.298,95                2.014,91
+                          SUBITEM: 15.16                                  14.862,33                  743,05
+                          SUBITEM: 15.17                                   3.058,20                  152,90
+                          SUBITEM: 15.18                                  60.763,14                3.038,11
+                             ITEM: 15                                    436.494,15               21.824,14
+                          SUBITEM: 17.13                                     405,99-                  20,29-
+                             ITEM: 17                                        405,99-                  20,29-
+                          SUBITEM: 19.01                                      32,32                    1,61
+                             ITEM: 19                                         32,32                    1,61
+                          SUBITEM: 28.01                                   1.750,00                   87,50
+                             ITEM: 28                                      1.750,00                   87,50
+                          TOTAL GERAL                                    444.903,17               22.223,67
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0643            PAG:    5
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0643-2 - GUARA, DF                                                                               PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0643-2 GUARA, DF                             CNPJ: 00.360.305.0643-40              INSC. MUNICIPAL: 0731282504243
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+0 ----------------------------------------------- R E S U M O   D A    U N I D A D E -----------------------------------------------
+0               ISSQN APURADO (R$) ----------------             22.223,67
+0               AJUSTES (R$):
+                      ( - ) INCENTIVO FISCAL ------                  0,00
+                      ( - ) ISSQN RETIDO NA FONTE -                  0,00
+                      ( - ) CREDITO TRIBUTARIO ----                  0,00
+0               ISSQN A PAGAR (R$) ----------------             22.223,67

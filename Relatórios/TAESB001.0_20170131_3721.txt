@@ -1,0 +1,120 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 3721-POSSE, GO                                             PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/1830-0 POSSE
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    00027178-0  SOUZA E SOARES CORRETORA DE IMOVEIS 3721  011414087/0001-60                         663,00           33,15   5,00000
+    00051415-2  GRANDE E ALFA COMERCIO E MEDICAMENT 3721  004778345/0001-21                       2.103,64          105,17   5,00000
+    00064055-7  GENIAL EMPORIO COMERCIAL DE ALIMENT 3721  009275023/0001-83                       1.435,91           71,79   5,00000
+    00064812-4  CORRESPONDENTE SILVEIRA LTDA ME     3721  008918667/0001-80                       2.061,32           41,22   2,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                        6.263,87          251,33
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL INSCRITOS I.S.S                                                                                0,00            0,00
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                               4.202,55          210,11   5,00000
+                                                                                                  2.061,32           41,22   2,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                           6.263,87          251,33
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 3721-POSSE, GO                                             PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/1830-0 POSSE
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                            0,00            0,00
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    08019735-3  LOTERICA POPULAR DA SORTE LTDA ME   3721  010768469/0001-29  0                   11.235,35          224,67   2,00000
+    08007552-5  LOTERIA ESPORTIVA POSSE LTDA        3721  003194231/0001-71  45002-90             9.321,92          186,40   2,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                           20.557,27          411,07
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              20.557,27          411,07   2,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                          20.557,27          411,07
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO

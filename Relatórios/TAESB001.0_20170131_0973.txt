@@ -1,0 +1,60 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0973-PLANALTINA, DF                                        PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/1760-9 PLANALTINA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    00033865-6  LEIDE CORRETORA DE IMOVEIS LTDA-ME  0973  012484472/0001-46                       2.745,32          137,26   5,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                        2.745,32          137,26
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    00023917-8  IMOBILIARIA MINHA CASA LTDA         0973  011264624/0001-32  15364090             9.343,63          467,17   5,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                            9.343,63          467,17
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              12.088,95          604,43   5,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                          12.088,95          604,43
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO

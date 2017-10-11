@@ -1,0 +1,120 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 3444-PLANALTINA DE GOIAS, GO                               PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/1760-9 PLANALTINA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    00038027-0  PLANALTINA DE GOIAS, GO             3444  000360305/3444-66                           0,00            0,00   5,00000
+    00056193-2  K E F SERVI OS ADMINISTRATIVOS LTDA 3444  008938124/0002-05                      26.465,22        1.323,26   5,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                       26.465,22        1.323,26
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL INSCRITOS I.S.S                                                                                0,00            0,00
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              26.465,22        1.323,26   5,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                          26.465,22        1.323,26
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 3444-PLANALTINA DE GOIAS, GO                               PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/1760-9 PLANALTINA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                            0,00            0,00
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    08003144-7  LOTERICA BRASILINHA LTDA            3444  002644763/0001-09  143457              28.045,35          782,44   2,79000
+    08022683-3  LOTERICA TALISMA LTDA ME            3444  016642558/0001-00  15367064            10.810,51          216,19   2,00000
+    08023874-2  R A AGUIAR EIRELLI ME               3444  018922379/0001-52  15368091            29.756,27          595,09   2,00000
+    08012979-0  L L LOTERIA LTDA ME                 3444  004604478/0001-81  400015              19.289,90          964,47   5,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                           87.902,03        2.558,19
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              28.045,35          782,44   2,79000
+                                                                                                 40.566,78          811,28   2,00000
+                                                                                                 19.289,90          964,47   5,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                          87.902,03        2.558,19
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO

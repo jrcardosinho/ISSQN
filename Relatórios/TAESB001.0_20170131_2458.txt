@@ -1,0 +1,60 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 2458-CORPORATE CENTER, DF                                  PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/1760-9 PLANALTINA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    00053536-2  ATENA IMOBILIARIA LTDA ME           2458  015233798/0001-99                       1.284,80           64,24   5,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                        1.284,80           64,24
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL INSCRITOS I.S.S                                                                                0,00            0,00
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                               1.284,80           64,24   5,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                           1.284,80           64,24
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO

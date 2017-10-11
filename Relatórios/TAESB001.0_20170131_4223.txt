@@ -1,0 +1,120 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 4223-SANTO ANTONIO DO DESCOBERTO, GO                       PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/1975-3 SANTO ANTONIO DO DESCOBERTO
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    00055716-1  ARQUISAMU IMOBILIARIA LTDA          0972  024923385/0001-27                         864,60           43,23   5,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                          864,60           43,23
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL INSCRITOS I.S.S                                                                                0,00            0,00
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                                 864,60           43,23   5,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                             864,60           43,23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 4223-SANTO ANTONIO DO DESCOBERTO, GO                       PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/1975-3 SANTO ANTONIO DO DESCOBERTO
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    08007807-9  W A LOTERICA E CONVENIENCIA LT      4223  003504114/0001-67                      32.576,44        1.628,78   5,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                       32.576,44        1.628,78
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    08023168-3  ADM LOTERICA LTDA ME                4223  016540169/0001-74  008405              12.938,73          646,92   5,00000
+    08023741-0  ZEUS PIETRA LOTERICA LTDA-ME        4223  017078564/0001-40  008448              10.110,22          505,48   5,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                           23.048,95        1.152,40
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              55.625,39        2.781,18   5,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                          55.625,39        2.781,18
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO

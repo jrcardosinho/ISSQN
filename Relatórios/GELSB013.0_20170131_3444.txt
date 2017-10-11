@@ -1,0 +1,139 @@
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3444         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 3444-4  PLANALTINA DE GOIAS, GO                  UNID. RECOLHIMENTO: 3444-4  PLANALTINA DE GOIAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.1760-9  NOME: PLANALTINA                           UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 3444-4  PLANALTINA DE GOIAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-003144.7 LOTERICA BRASILINHA LTDA                 CPF/CNPJ: 02.644.763/0001-09  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         216,00                 18,59           2,79              0,50
+    0531 LOTECA                                                         324,00                 27,90           3,50              0,97
+    0591 LOTOFACIL                                                   47.062,00              4.052,43           2,79            113,00
+    0591 LOTOFACIL                                                    3.310,00                284,99           3,50              9,97
+    0592 TIMEMANIA                                                    7.710,00                693,90           2,79             19,30
+    0592 TIMEMANIA                                                      282,00                 25,38           3,50              0,88
+    0595 LOTOGOL                                                        141,00                 12,12           2,79              0,30
+    0595 LOTOGOL                                                         22,00                  1,89           3,50              0,06
+    0740 QUINA                                                       34.123,50              2.937,79           2,79             81,85
+    0740 QUINA                                                        2.329,50                200,56           3,50              7,01
+    0741 MEGASENA                                                   104.639,50              9.011,91           2,79            251,40
+    0741 MEGASENA                                                     3.174,50                273,38           3,50              9,56
+    0745 LOTOMANIA                                                   11.290,50                972,10           2,79             27,06
+    0749 DUPLA SENA                                                   4.974,00                428,26           2,79             11,89
+    0749 DUPLA SENA                                                     910,00                 78,37           3,50              2,74
+ 
+    TOTAL/CANAL LOTERICO:                                           220.508,50             19.019,57                           536,49
+ 
+    0761 LOTERIA FEDERAL                                                543,40                 27,17           2,79              0,69
+ 
+    TOTAL/CANAL LOTERICO:                                               543,40                 27,17                             0,69
+ 
+    TOTAL CD:                                                       221.051,90             19.046,74                           537,18
+0
+ 08-012979.0 L L LOTERIA LTDA ME                      CPF/CNPJ: 04.604.478/0001-81  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                           2,00                  0,17           5,00              0,00
+    0591 LOTOFACIL                                                   18.052,00              1.554,37           5,00             77,65
+    0592 TIMEMANIA                                                    2.386,00                214,74           5,00             10,69
+    0595 LOTOGOL                                                         19,00                  1,62           5,00              0,07
+    0740 QUINA                                                       11.847,00              1.019,52           5,00             50,85
+    0741 MEGASENA                                                    36.183,00              3.116,11           5,00            155,75
+    0745 LOTOMANIA                                                    3.949,50                339,99           5,00             16,97
+    0749 DUPLA SENA                                                     966,00                 83,12           5,00              4,10
+ 
+    TOTAL/CANAL LOTERICO:                                            73.404,50              6.329,64                           316,08
+ 
+    0761 LOTERIA FEDERAL                                                445,80                 22,29           0,00              1,07
+ 
+    TOTAL/CANAL LOTERICO:                                               445,80                 22,29                             1,07
+ 
+    TOTAL CD:                                                        73.850,30              6.351,93                           317,15
+0
+ 08-022683.3 LOTERICA TALISMA LTDA ME                 CPF/CNPJ: 16.642.558/0001-00  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          22,00                  1,89           2,00              0,03
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3444         PAG -      2
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 3444-4  PLANALTINA DE GOIAS, GO                  UNID. RECOLHIMENTO: 3444-4  PLANALTINA DE GOIAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.1760-9  NOME: PLANALTINA                           UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 3444-4  PLANALTINA DE GOIAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+    0591 LOTOFACIL                                                    9.358,00                805,77           2,00             16,08
+    0592 TIMEMANIA                                                    1.202,00                108,18           2,00              2,13
+    0595 LOTOGOL                                                         14,00                  1,19           2,00              0,01
+    0740 QUINA                                                        4.716,00                406,00           2,00              8,07
+    0741 MEGASENA                                                    34.275,50              2.951,91           2,00             59,02
+    0745 LOTOMANIA                                                    1.947,00                167,55           2,00              3,32
+    0749 DUPLA SENA                                                     410,00                 35,25           2,00              0,67
+ 
+    TOTAL/CANAL LOTERICO:                                            51.944,50              4.477,74                            89,33
+ 
+    0761 LOTERIA FEDERAL                                                445,80                 22,29           2,00              0,42
+ 
+    TOTAL/CANAL LOTERICO:                                               445,80                 22,29                             0,42
+ 
+    TOTAL CD:                                                        52.390,30              4.500,03                            89,75
+0
+ 08-023874.2 R A AGUIAR EIRELLI ME                    CPF/CNPJ: 18.922.379/0001-52  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          26,00                  2,23           2,00              0,03
+    0531 LOTECA                                                          18,00                  1,54           3,50              0,05
+    0591 LOTOFACIL                                                   20.022,00              1.724,05           2,00             34,40
+    0591 LOTOFACIL                                                    2.170,00                186,83           3,50              6,53
+    0592 TIMEMANIA                                                    2.108,00                189,72           2,00              3,74
+    0592 TIMEMANIA                                                      120,00                 10,80           3,50              0,37
+    0595 LOTOGOL                                                         45,00                  3,84           2,00              0,06
+    0595 LOTOGOL                                                         19,00                  1,63           3,50              0,05
+    0740 QUINA                                                       11.653,50              1.002,91           2,00             19,93
+    0740 QUINA                                                        1.122,00                 96,55           3,50              3,37
+    0741 MEGASENA                                                    44.401,00              3.823,89           2,00             76,44
+    0741 MEGASENA                                                     1.599,50                137,73           3,50              4,82
+    0745 LOTOMANIA                                                    3.592,50                309,19           2,00              6,16
+    0749 DUPLA SENA                                                   1.942,00                167,17           2,00              3,27
+    0749 DUPLA SENA                                                     230,00                 19,80           3,50              0,69
+ 
+    TOTAL/CANAL LOTERICO:                                            89.068,50              7.677,88                           159,91
+ 
+    0761 LOTERIA FEDERAL                                                445,80                 22,29           2,00              0,42
+ 
+    TOTAL/CANAL LOTERICO:                                               445,80                 22,29                             0,42
+ 
+    TOTAL CD:                                                        89.514,30              7.700,17                           160,33
+0
+ TOTAL PONTO DE VENDA:                                              436.806,80             37.598,87                         1.104,41
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3444         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 52.1760-9  NOME: PLANALTINA                           UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                         608,00                 52,32                             1,58
+    0591 LOTOFACIL                                                   99.974,00              8.608,44                           257,63
+    0592 TIMEMANIA                                                   13.808,00              1.242,72                            37,11
+    0595 LOTOGOL                                                        260,00                 22,29                             0,55
+    0740 QUINA                                                       65.791,50              5.663,33                           171,08
+    0741 MEGASENA                                                   224.273,00             19.314,93                           556,99
+    0745 LOTOMANIA                                                   20.779,50              1.788,83                            53,51
+    0749 DUPLA SENA                                                   9.432,00                811,97                            23,36
+    0761 LOTERIA FEDERAL                                              1.880,80                 94,04                             2,60
+0
+ TOTAL GERAL:                                                       436.806,80             37.598,87                         1.104,41

@@ -1,0 +1,178 @@
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3052         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 3052-0  AGUAS LINDAS, GO                         UNID. RECOLHIMENTO: 3052-0  AGUAS LINDAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.0025-8  NOME: AGUAS LINDAS DE GOIAS                UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 3052-0  AGUAS LINDAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-017905.3 LOTERICA AGUAS LINDAS LTDA               CPF/CNPJ: 06.886.001/0001-61  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                       1.097,00                 94,44           2,79              2,61
+    0591 LOTOFACIL                                                   54.294,00              4.675,51           2,79            130,38
+    0592 TIMEMANIA                                                    7.214,00                649,26           2,79             18,05
+    0595 LOTOGOL                                                        281,00                 24,15           2,79              0,65
+    0740 QUINA                                                       38.239,50              3.292,10           2,79             91,69
+    0741 MEGASENA                                                   103.939,50              8.951,54           2,79            249,71
+    0745 LOTOMANIA                                                   13.492,50              1.161,73           2,79             32,37
+    0749 DUPLA SENA                                                   3.388,00                291,66           2,79              8,08
+ 
+    TOTAL/CANAL LOTERICO:                                           221.945,50             19.140,39                           533,54
+ 
+    0760 LOTERIA INSTANTANEA                                          1.800,00                234,00           2,79              6,48
+    0761 LOTERIA FEDERAL                                                710,40                 35,52           2,79              0,93
+ 
+    TOTAL/CANAL LOTERICO:                                             2.510,40                269,52                             7,41
+ 
+    TOTAL CD:                                                       224.455,90             19.409,91                           540,95
+0
+ 08-019195.9 LOTERICA B&M LTDA-ME                     CPF/CNPJ: 10.560.833/0001-60  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                       1.118,00                 96,26           2,00              1,90
+    0591 LOTOFACIL                                                   26.474,00              2.279,75           2,00             45,52
+    0592 TIMEMANIA                                                    3.848,00                346,32           2,00              6,86
+    0595 LOTOGOL                                                        166,00                 14,26           2,00              0,25
+    0740 QUINA                                                       17.364,00              1.494,27           2,00             29,75
+    0741 MEGASENA                                                    64.242,50              5.532,76           2,00            110,61
+    0745 LOTOMANIA                                                    5.841,00                502,66           2,00              9,99
+    0749 DUPLA SENA                                                   2.018,00                173,72           2,00              3,41
+ 
+    TOTAL/CANAL LOTERICO:                                           121.071,50             10.440,00                           208,29
+ 
+    0761 LOTERIA FEDERAL                                                368,60                 18,43           2,00              0,35
+ 
+    TOTAL/CANAL LOTERICO:                                               368,60                 18,43                             0,35
+ 
+    TOTAL CD:                                                       121.440,10             10.458,43                           208,64
+0
+ 08-021568.8 LOTERICA JARDIM II LTDA                  CPF/CNPJ: 14.595.538/0001-09  INSC. ISS:      0  TP. EMP.: PEQUENO PORTE
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          28,00                  2,39           2,00              0,02
+    0591 LOTOFACIL                                                   13.334,00              1.148,09           2,00             22,89
+    0592 TIMEMANIA                                                    1.362,00                122,58           2,00              2,39
+    0595 LOTOGOL                                                         18,00                  1,52           2,00              0,01
+    0740 QUINA                                                        9.751,50                839,15           2,00             16,64
+    0741 MEGASENA                                                    38.013,50              3.273,78           2,00             65,43
+    0745 LOTOMANIA                                                    5.647,50                486,20           2,00              9,68
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3052         PAG -      2
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 3052-0  AGUAS LINDAS, GO                         UNID. RECOLHIMENTO: 3052-0  AGUAS LINDAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.0025-8  NOME: AGUAS LINDAS DE GOIAS                UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 3052-0  AGUAS LINDAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+    0749 DUPLA SENA                                                     900,00                 77,42           2,00              1,48
+ 
+    TOTAL/CANAL LOTERICO:                                            69.054,50              5.951,13                           118,54
+ 
+    0761 LOTERIA FEDERAL                                                278,80                 13,94           2,00              0,26
+ 
+    TOTAL/CANAL LOTERICO:                                               278,80                 13,94                             0,26
+ 
+    TOTAL CD:                                                        69.333,30              5.965,07                           118,80
+0
+ 08-021570.0 LOTERICA POSITIVA LTDA ME                CPF/CNPJ: 14.595.563/0001-84  INSC. ISS:      0  TP. EMP.: M DIO PORTE
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         809,00                 69,66           2,00              1,38
+    0591 LOTOFACIL                                                   11.292,00                972,21           2,00             19,39
+    0592 TIMEMANIA                                                      862,00                 77,58           2,00              1,48
+    0595 LOTOGOL                                                        110,00                  9,44           2,00              0,15
+    0740 QUINA                                                        6.936,00                596,63           2,00             11,81
+    0741 MEGASENA                                                    38.552,50              3.320,20           2,00             66,35
+    0745 LOTOMANIA                                                    1.767,00                152,05           2,00              3,00
+    0749 DUPLA SENA                                                     508,00                 43,65           2,00              0,79
+ 
+    TOTAL/CANAL LOTERICO:                                            60.836,50              5.241,42                           104,35
+ 
+    0761 LOTERIA FEDERAL                                                278,80                 13,94           2,00              0,26
+ 
+    TOTAL/CANAL LOTERICO:                                               278,80                 13,94                             0,26
+ 
+    TOTAL CD:                                                        61.115,30              5.255,36                           104,61
+0
+ 08-022174.2 LOTERICA DA SORTE LTDA ME                CPF/CNPJ: 15.653.333/0001-97  INSC. ISS: 2    0  TP. EMP.: PEQUENO PORTE
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         362,00                 31,16           2,00              0,61
+    0591 LOTOFACIL                                                   19.626,00              1.689,96           2,00             33,74
+    0592 TIMEMANIA                                                    1.622,00                145,98           2,00              2,86
+    0595 LOTOGOL                                                         74,00                  6,35           2,00              0,11
+    0740 QUINA                                                        8.797,50                756,81           2,00             15,02
+    0741 MEGASENA                                                    39.819,50              3.429,33           2,00             68,54
+    0745 LOTOMANIA                                                    4.581,00                394,37           2,00              7,82
+    0749 DUPLA SENA                                                   1.312,00                112,88           2,00              2,20
+ 
+    TOTAL/CANAL LOTERICO:                                            76.194,00              6.566,84                           130,90
+ 
+    0761 LOTERIA FEDERAL                                                278,80                 13,94           2,00              0,26
+ 
+    TOTAL/CANAL LOTERICO:                                               278,80                 13,94                             0,26
+ 
+    TOTAL CD:                                                        76.472,80              6.580,78                           131,16
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3052         PAG -      3
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 3052-0  AGUAS LINDAS, GO                         UNID. RECOLHIMENTO: 3052-0  AGUAS LINDAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.0025-8  NOME: AGUAS LINDAS DE GOIAS                UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 3052-0  AGUAS LINDAS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-022196.3 LOTERICA DOIS IRMAOS LTDA                CPF/CNPJ: 15.691.424/0001-17  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          44,00                  3,77           2,00              0,06
+    0591 LOTOFACIL                                                   11.990,00              1.032,44           2,00             20,59
+    0592 TIMEMANIA                                                    1.352,00                121,68           2,00              2,38
+    0595 LOTOGOL                                                         12,00                  1,00           2,00              0,00
+    0740 QUINA                                                        8.368,50                719,89           2,00             14,29
+    0741 MEGASENA                                                    35.920,50              3.093,52           2,00             61,83
+    0745 LOTOMANIA                                                    3.303,00                284,25           2,00              5,65
+    0749 DUPLA SENA                                                     666,00                 57,27           2,00              1,09
+ 
+    TOTAL/CANAL LOTERICO:                                            61.656,00              5.313,82                           105,89
+ 
+    0761 LOTERIA FEDERAL                                                278,80                 13,94           2,00              0,26
+ 
+    TOTAL/CANAL LOTERICO:                                               278,80                 13,94                             0,26
+ 
+    TOTAL CD:                                                        61.934,80              5.327,76                           106,15
+0
+ TOTAL PONTO DE VENDA:                                              614.752,20             52.997,31                         1.210,31
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3052         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 52.0025-8  NOME: AGUAS LINDAS DE GOIAS                UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                       3.458,00                297,68                             6,58
+    0591 LOTOFACIL                                                  137.010,00             11.797,96                           272,51
+    0592 TIMEMANIA                                                   16.260,00              1.463,40                            34,02
+    0595 LOTOGOL                                                        661,00                 56,72                             1,17
+    0740 QUINA                                                       89.457,00              7.698,85                           179,20
+    0741 MEGASENA                                                   320.488,00             27.601,13                           622,47
+    0745 LOTOMANIA                                                   34.632,00              2.981,26                            68,51
+    0749 DUPLA SENA                                                   8.792,00                756,60                            17,05
+    0760 LOTERIA INSTANTANEA                                          1.800,00                234,00                             6,48
+    0761 LOTERIA FEDERAL                                              2.194,20                109,71                             2,32
+0
+ TOTAL GERAL:                                                       614.752,20             52.997,31                         1.210,31

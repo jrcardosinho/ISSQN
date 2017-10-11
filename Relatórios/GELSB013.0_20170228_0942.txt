@@ -1,0 +1,176 @@
+102/03/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         0942         PAG -      1
+ 
+ 01:42:19                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:02/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/03/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 0942-3  UNAI, MG                                 UNID. RECOLHIMENTO: 0942-3  UNAI, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 31.7040-4  NOME: UNAI                                 UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 0942-3  UNAI, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 11-003803.7 CASA DA FORTUNA LTD                      CPF/CNPJ: 17.652.017/0001-26  INSC. ISS: 6    0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         507,00                 43,66           3,84              1,66
+    0591 LOTOFACIL                                                   40.246,00              3.465,57           3,84            133,02
+    0592 TIMEMANIA                                                    4.972,00                447,48           3,84             17,12
+    0595 LOTOGOL                                                        153,00                 13,14           3,84              0,48
+    0740 QUINA                                                       39.274,50              3.380,78           3,84            129,73
+    0741 MEGASENA                                                    60.245,50              5.188,26           3,84            199,18
+    0745 LOTOMANIA                                                   17.247,00              1.485,11           3,84             56,99
+    0749 DUPLA SENA                                                   8.878,00                764,42           3,84             29,31
+ 
+    TOTAL/CANAL LOTERICO:                                           171.523,00             14.788,42                           567,49
+ 
+    0761 LOTERIA FEDERAL                                                489,20                 24,46           3,84              0,90
+ 
+    TOTAL/CANAL LOTERICO:                                               489,20                 24,46                             0,90
+ 
+    TOTAL CD:                                                       172.012,20             14.812,88                           568,39
+0
+ 11-007464.5 CASA LOTERICA UNAI LTDA                  CPF/CNPJ: 03.286.740/0001-24  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         398,00                 34,26           2,79              0,94
+    0591 LOTOFACIL                                                   25.912,00              2.231,16           2,79             62,21
+    0592 TIMEMANIA                                                    2.786,00                250,74           2,79              6,94
+    0595 LOTOGOL                                                        160,00                 13,75           2,79              0,35
+    0740 QUINA                                                       25.627,50              2.205,79           2,79             61,43
+    0741 MEGASENA                                                    32.868,50              2.830,51           2,79             78,91
+    0745 LOTOMANIA                                                    7.336,50                631,59           2,79             17,58
+    0749 DUPLA SENA                                                   4.542,00                391,01           2,79             10,85
+ 
+    TOTAL/CANAL LOTERICO:                                            99.630,50              8.588,81                           239,21
+ 
+    0761 LOTERIA FEDERAL                                              1.471,40                 73,57           2,79              2,03
+ 
+    TOTAL/CANAL LOTERICO:                                             1.471,40                 73,57                             2,03
+ 
+    TOTAL CD:                                                       101.101,90              8.662,38                           241,24
+0
+ 11-008084.0 CASA DA FORTUNA LTDA FILIAL              CPF/CNPJ: 17.652.017/0002-07  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         192,00                 16,53           3,84              0,63
+    0591 LOTOFACIL                                                    4.816,00                414,58           3,84             15,87
+    0592 TIMEMANIA                                                      500,00                 45,00           3,84              1,66
+    0595 LOTOGOL                                                          4,00                  0,33           3,84              0,00
+    0740 QUINA                                                        3.598,50                309,18           3,84             11,76
+    0741 MEGASENA                                                     7.535,50                648,82           3,84             24,88
+    0745 LOTOMANIA                                                    1.680,00                144,48           3,84              5,51
+    0749 DUPLA SENA                                                     802,00                 68,99           3,84              2,60
+102/03/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         0942         PAG -      2
+ 
+ 01:42:19                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:02/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/03/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 0942-3  UNAI, MG                                 UNID. RECOLHIMENTO: 0942-3  UNAI, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 31.7040-4  NOME: UNAI                                 UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 0942-3  UNAI, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+    TOTAL/CANAL LOTERICO:                                            19.128,00              1.647,91                            62,91
+ 
+    0761 LOTERIA FEDERAL                                                237,20                 11,86           3,84              0,42
+ 
+    TOTAL/CANAL LOTERICO:                                               237,20                 11,86                             0,42
+ 
+    TOTAL CD:                                                        19.365,20              1.659,77                            63,33
+0
+ 11-017657.0 LOT RICA MHC LTDA                        CPF/CNPJ: 06.004.284/0001-70  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         878,00                 75,61           3,87              2,91
+    0591 LOTOFACIL                                                   37.156,00              3.199,48           3,87            123,77
+    0592 TIMEMANIA                                                    4.164,00                374,76           3,87             14,46
+    0595 LOTOGOL                                                         32,00                  2,73           3,87              0,06
+    0740 QUINA                                                       40.458,00              3.482,97           3,87            134,69
+    0741 MEGASENA                                                    64.634,50              5.566,20           3,87            215,37
+    0745 LOTOMANIA                                                   20.328,00              1.750,44           3,87             67,70
+    0749 DUPLA SENA                                                   7.482,00                644,15           3,87             24,86
+ 
+    TOTAL/CANAL LOTERICO:                                           175.132,50             15.096,34                           583,82
+ 
+    0761 LOTERIA FEDERAL                                                474,40                 23,72           3,87              0,90
+ 
+    TOTAL/CANAL LOTERICO:                                               474,40                 23,72                             0,90
+ 
+    TOTAL CD:                                                       175.606,90             15.120,06                           584,72
+0
+ 11-023908.3 CRISTAL DA SORTE LOTERICA LTDA ME        CPF/CNPJ: 19.061.216/0001-95  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         246,00                 21,17           2,79              0,58
+    0591 LOTOFACIL                                                   10.154,00                874,23           2,79             24,35
+    0592 TIMEMANIA                                                    1.054,00                 94,86           2,79              2,61
+    0595 LOTOGOL                                                        124,00                 10,66           2,79              0,28
+    0740 QUINA                                                        8.518,50                732,49           2,79             20,34
+    0741 MEGASENA                                                    14.318,50              1.232,93           2,79             34,36
+    0745 LOTOMANIA                                                    4.206,00                362,03           2,79             10,06
+    0749 DUPLA SENA                                                   2.164,00                186,17           2,79              5,15
+ 
+    TOTAL/CANAL LOTERICO:                                            40.785,00              3.514,54                            97,73
+ 
+    0761 LOTERIA FEDERAL                                                237,20                 11,86           2,79              0,27
+ 
+    TOTAL/CANAL LOTERICO:                                               237,20                 11,86                             0,27
+ 
+    TOTAL CD:                                                        41.022,20              3.526,40                            98,00
+0
+ 11-023909.1 MEGA SORTE LOTERICA UNAI LTDA ME         CPF/CNPJ: 19.061.302/0001-06  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+102/03/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         0942         PAG -      3
+ 
+ 01:42:19                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:02/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/03/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 0942-3  UNAI, MG                                 UNID. RECOLHIMENTO: 0942-3  UNAI, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 31.7040-4  NOME: UNAI                                 UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 0942-3  UNAI, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          46,00                  3,95           2,00              0,06
+    0591 LOTOFACIL                                                    9.318,00                802,29           2,00             15,99
+    0592 TIMEMANIA                                                      774,00                 69,66           2,00              1,34
+    0595 LOTOGOL                                                         18,00                  1,54           2,00              0,02
+    0740 QUINA                                                        8.446,50                726,48           2,00             14,42
+    0741 MEGASENA                                                     9.296,00                800,43           2,00             15,97
+    0745 LOTOMANIA                                                    3.691,50                317,69           2,00              6,30
+    0749 DUPLA SENA                                                   1.026,00                 88,28           2,00              1,71
+ 
+    TOTAL/CANAL LOTERICO:                                            32.616,00              2.810,32                            55,81
+ 
+    0761 LOTERIA FEDERAL                                                237,20                 11,86           2,00              0,22
+ 
+    TOTAL/CANAL LOTERICO:                                               237,20                 11,86                             0,22
+ 
+    TOTAL CD:                                                        32.853,20              2.822,18                            56,03
+0
+ TOTAL PONTO DE VENDA:                                              541.961,60             46.603,67                         1.611,71
+0
+102/03/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         0942         PAG -      1
+ 
+ 01:42:19                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:02/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/03/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 31.7040-4  NOME: UNAI                                 UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                       2.267,00                195,18                             6,78
+    0591 LOTOFACIL                                                  127.602,00             10.987,31                           375,21
+    0592 TIMEMANIA                                                   14.250,00              1.282,50                            44,13
+    0595 LOTOGOL                                                        491,00                 42,15                             1,19
+    0740 QUINA                                                      125.923,50             10.837,69                           372,37
+    0741 MEGASENA                                                   188.898,50             16.267,15                           568,67
+    0745 LOTOMANIA                                                   54.489,00              4.691,34                           164,14
+    0749 DUPLA SENA                                                  24.894,00              2.143,02                            74,48
+    0761 LOTERIA FEDERAL                                              3.146,60                157,33                             4,74
+0
+ TOTAL GERAL:                                                       541.961,60             46.603,67                         1.611,71

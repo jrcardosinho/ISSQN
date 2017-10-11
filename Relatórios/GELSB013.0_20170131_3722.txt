@@ -1,0 +1,55 @@
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3722         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 3722-2  CAMPOS BELOS, GO                         UNID. RECOLHIMENTO: 3722-2  CAMPOS BELOS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.0490-4  NOME: CAMPOS BELOS                         UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 3722-2  CAMPOS BELOS, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-009861.4 Z B SANTOS & CIA LTDA                    CPF/CNPJ: 37.623.683/0001-43  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                       1.772,00                152,59           2,50              3,79
+    0591 LOTOFACIL                                                   77.312,00              6.657,72           2,50            166,36
+    0592 TIMEMANIA                                                   37.980,00              3.418,20           2,50             85,40
+    0595 LOTOGOL                                                        105,00                  9,01           2,50              0,19
+    0740 QUINA                                                      157.840,50             13.591,75           2,50            339,67
+    0741 MEGASENA                                                   424.753,00             36.581,26           2,50            914,51
+    0745 LOTOMANIA                                                   21.262,50              1.830,85           2,50             45,74
+    0749 DUPLA SENA                                                  31.224,00              2.688,79           2,50             67,16
+ 
+    TOTAL/CANAL LOTERICO:                                           752.249,00             64.930,17                         1.622,82
+ 
+    0761 LOTERIA FEDERAL                                                669,40                 33,47           2,50              0,82
+ 
+    TOTAL/CANAL LOTERICO:                                               669,40                 33,47                             0,82
+ 
+    TOTAL CD:                                                       752.918,40             64.963,64                         1.623,64
+0
+ TOTAL PONTO DE VENDA:                                              752.918,40             64.963,64                         1.623,64
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3722         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 52.0490-4  NOME: CAMPOS BELOS                         UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                       1.772,00                152,59                             3,79
+    0591 LOTOFACIL                                                   77.312,00              6.657,72                           166,36
+    0592 TIMEMANIA                                                   37.980,00              3.418,20                            85,40
+    0595 LOTOGOL                                                        105,00                  9,01                             0,19
+    0740 QUINA                                                      157.840,50             13.591,75                           339,67
+    0741 MEGASENA                                                   424.753,00             36.581,26                           914,51
+    0745 LOTOMANIA                                                   21.262,50              1.830,85                            45,74
+    0749 DUPLA SENA                                                  31.224,00              2.688,79                            67,16
+    0761 LOTERIA FEDERAL                                                669,40                 33,47                             0,82
+0
+ TOTAL GERAL:                                                       752.918,40             64.963,64                         1.623,64

@@ -1,0 +1,660 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 00:00:06                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:02.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                   PV VINCUL   CNPJ               CF/DF                    VR BASE CALC   VR ISS RETIDO
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                                  0,00            0,00
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    0001  BANCO DO BRASIL S/A                 0002
+ 
+    0078  PONTA PORA MS                           00000000/0078-70                                         46,14            2,30
+    0096  FLORIANO PI                             00000000/0096-52                                        642,60           32,13
+    0132  ERECHIM RS                              00000000/0132-50                                         58,00            2,90
+    0139  LAJEADO RS                              00000000/0139-27   1180                                 655,08           32,75
+    0168  ALFENAS MG                              00000000/0168-61                                         41,24            2,06
+    0222  SAO MATEUS ES                           00000000/0222-41   1                                    372,68           18,63
+    0254  PICOS PI                                00000000/0254-29                                         96,62            4,83
+    0326  ITACOATIARA AM                          00000000/0326-38   54011801                               0,80            0,04
+    0349  ROLANDIA PR                             00000000/0349-24                                         79,04            3,95
+    0377  FORMOSA GO                              00000000/0377-88                                          5,18            0,25
+    0411  JALES SP                                00000000/0411-14   676                                   11,92            0,59
+    0460  ANGRA DOS REIS RJ                       00000000/0460-00                                        140,78            7,03
+    0613  SANTA INES MA                           00000000/0613-01                                         26,00            1,30
+    0829  ARACRUZ                                 00000000/1159-24   1                                    294,82           14,74
+    0941  LUZIANIA GO                             00000000/1020-08                                         12,90            0,64
+    0942  MAGE RJ                                 00000000/1262-92                                          7,56            0,37
+    3413  BRAS LIA SHOPPING                       00000000/3212-30   0731456804239                         10,92            0,54
+    3475  ASA NORTE 201                           00000000/3144-55   0731456801051                        119,94            5,99
+    3477  ASA NORTE 515                           00000000/4029-07   0731456804077                         20,78            1,03
+    3478  ASA SUL 516                             00000000/4030-40   0731456802457                         84,38            4,21
+    3591  MINIST RIO CULTURA DF                   00000000/3968-34   0731456800675                          8,90            0,44
+    3600  FOR AS ARMADAS                          00000000/3966-72   0731456800918                         30,92            1,54
+    3602  MINIST RIO DA FAZENDA                   00000000/3967-53   0731456802104                         25,86            1,29
+    4597  IBAMA                                   00000000/5446-12   0731456809036                         97,22            4,86
+    4811  PSO BRASILIA I                          00000000/4252-81   0731456805049                      1.189,80           59,49
+    5712  PSO CURITIBA I                          00000000/4413-09   003727419                             21,30            1,06
+    5715  PSO PAE BRASILIA II                     00000000/5241-82   0731456807092                      2.244,54          112,22
+    7801  PSO DF II                               00000000/4029-07   0731456804077                        725,08           36,25
+    7803  PSO PAE BRASILIA I                      00000000/4252-81   0731456805049                      1.565,22           78,26
+    7804  PSO PAE BRASILIA III                    00000000/4252-81   0731456805049                        519,34           25,96
+    7807  PSO APAREC.GOIANIA                      00000000/6944-28                                         46,70            2,33
+    9637  INFRA/SERET S.PAULO SP                  00000000/4805-41                                        523,90           26,19
+ 
+ TOTAL INSCRITOS I.S.S                                                                                  9.726,16          486,17
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                                 9.726,16          486,17
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                            0,00            0,00
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    00007653-8  LUCIO COSTA, DF                     2893  000360305/2893-41                           0,00            0,00   5,00000
+    00008691-6  CAPITAL, DF                         0647  000360305/0001-04                           0,00            0,00   5,00000
+    00011803-6  GUARA II, DF                        3002  000360305/3002-56                           0,00            0,00   5,00000
+    00014889-0  RIACHO FUNDO, DF                    3035  000360305/3035-14                           0,00            0,00   5,00000
+    00017473-4  CGU, DF                             3360  000360305/3360-13                           0,00            0,00   5,00000
+    00017492-0  210 SUL, DF                         0816  000360305/0816-00                           0,00            0,00   5,00000
+    00017945-0  SAMAMBAIA, DF                       4167  000360305/4167-18                           0,00            0,00   5,00000
+    00035895-9  DOM BOSCO, DF                       0974  000360305/0974-34                           0,00            0,00   5,00000
+    00037786-4  MINISTERIO DO PLANEJAMENTO, DF      0863  000360305/0863-19                           0,00            0,00   5,00000
+    00042811-6  ATENDIMENTO INTEGRADO               7560  000360305/0001-04                           0,00            0,00   5,00000
+    00043435-3  SUDOESTE, DF                        1502  000360305/1502-62                           0,00            0,00   5,00000
+    00049004-0  AEROPORTO PRESIDENTE JK, DF         0003  000360305/0003-76                           0,00            0,00   5,00000
+    00008282-1  CIDADE DE SANTA MARIA, DF           3001  000360305/3001-75                           0,00            0,00   5,00000
+    00014887-3  ASSOC DOS DELEGADOS POLICIA DF      1041  000720516/0001-00                       4.573,25          228,66   5,00000
+    00018044-0  SILVA CONTABILIDADE LTDA            4166  010261566/0001-20                       2.184,20          109,21   5,00000
+    00018248-6  ASSOCIA AO DOS SERVIDORES DO SESC/D 0004  008675741/0001-84                       2.722,15          136,10   5,00000
+    00019090-0  FEROLA EMPREENDIMENTOS IMOBILIARIOS 2403  003903776/0001-00                       6.749,08          337,45   5,00000
+    00020439-0  Personalite Prestadora de Analise d 2490  010776537/0001-00                       5.734,47          114,68   2,00000
+    00022527-4  Aguas Claras Im veis Ltda           1502  010426862/0001-34                       9.188,46          459,42   5,00000
+    00022541-0  leonardo rizzo partic imobili rias  0816  002427169/0011-20                           7,50            0,37   5,00000
+    00023473-7  Real Gest o Empresarial LTDA        0004  010815418/0001-00                       5.244,85          262,24   5,00000
+    00025274-3  PAULO PIMENTA IMOVEIS LTDA          2893  011246260/0001-68                           0,00            0,00   5,00000
+    00026877-1  APEX REALTY IMOBILIARIA LTDA        2407  011296388/0001-36                       2.565,00          128,25   5,00000
+    00028468-8  COEMI NEGOCIOS IMOBILIARIOS LTDA    2403  001031509/0001-64                         786,41           15,72   2,00000
+    00029453-5  FINAX NEGOCIAL E INTERMEDIA  O FIN  0674  011814927/0001-81                      27.757,67          555,15   2,00000
+    00031663-6  DIRECIONAL CORRETORA DE IMOVEIS LTD 1041  010417140/0006-28                      12.014,00          600,70   5,00000
+    00031731-4  Real Prime Negocios Imobiliarios lt 0004  012093808/0001-40                      30.698,76        1.178,83   3,84000
+    00034411-7  LTR NEGOCIOS IMOBILIARIOS LTDA EPP  0664  012454793/0001-06                      11.584,05          579,20   5,00000
+    00034543-1  RB GOERHING ME                      0972  012684278/0001-04                       5.189,00          259,45   5,00000
+    00035761-8  PRIME ASSESSORIA E SERVICOS ADM LTD 3035  011620144/0001-67                       9.988,66          499,43   5,00000
+    00036672-2  LX CONSULTORIA FINANCEIRA LTDA - ME 1041  013108401/0001-01                           0,00            0,00   5,00000
+    00040682-1  GOLDFARB SERVICOS FIN IMOBILIARIOS  0655  008528163/0011-25                      29.321,32        1.466,06   5,00000
+    00042434-0  SOLINEIDE DE SOUZA FELICIO ME       0003  005887285/0001-48                      31.766,26        1.588,31   5,00000
+    00042908-2  MAXIMUS CONSULTORIA IMOBILIARIA LTD 4167  013973538/0001-24                       5.972,65          298,63   5,00000
+    00044447-2  LAMARTINE IMOVEIS LTDA ME           2403  005992624/0001-56                           0,00            0,00   5,00000
+    00045058-8  LUZIA MELLO CORRETORA DE IMOVEIS LT 0643  014039026/0001-58                       7.991,82          159,83   2,00000
+    00045300-5  FREDERICO JACINTO DA CUNHA          3035  012021623/0001-20                      10.346,12          517,30   5,00000
+    00047053-8  MARIVALDO CONCEICAO SANTANA         4166  013632875/0001-58                         175,36            8,76   5,00000
+    00047114-3  NOR & ED ASSESSORIA IMOBILIARIA LTD 3002  009366481/0001-28                       1.385,20           27,70   2,00000
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    2
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    00047422-3  FINAX FINANCIAMENTOS E INTERM LTDA  3002  015502769/0001-85                          90,00            1,80   2,00000
+    00047522-0  VALOR INTERMEDIA  ES DE NEGOCIOS LT 1041  014047092/0001-70                         170,00            8,50   5,00000
+    00047738-9  CRED CASA SERVI OS ADMINISTRATIVOS  0643  015298887/0001-13                       2.188,02           43,76   2,00000
+    00048089-4  JGE EMPREENDIMENTOS IMOBILIARIOS LT 0007  015237933/0001-74                      40.921,29        2.046,06   5,00000
+    00048415-6  CRED IMOVEIS EIRELI EPP             4483  014155820/0001-67                      15.334,27          766,71   5,00000
+    00048437-7  MAK EMPREENDIMENTOS IMOBILIARIOS LT 0002  015666090/0001-21                           0,00            0,00   2,00000
+    00048738-4  UNIVERSA SERVICOS ADMINISTRATIVOS L 0002  013398724/0002-68                      20.553,91          411,07   2,00000
+    00049488-7  MATIAS EMPREENDIMENTOS IMOBILIARIOS 3625  011401840/0001-82                       5.158,35          257,91   5,00000
+    00049489-5  MJR SERVICOS ADMINISTRATIVOS E FINA 3625  016549436/0001-74                       5.000,88          100,01   2,00000
+    00049564-6  c & c imobiliaria ltda              0002  013267523/0001-40                       8.960,87          179,21   2,00000
+    00050763-6  ATALAIA ASSESSORIA IMOBILIARIA LTDA 1990  014245032/0001-61                       5.140,60          102,81   2,00000
+    00051371-7  AQUI EMPREENDIMENTOS LTDA - ME      2399  012839133/0001-35                      19.016,00          380,32   2,00000
+    00051433-0  GISLENE DE ASSIS VITOR - ME         4222  011021145/0002-76                      25.654,44        1.282,72   5,00000
+    00051821-2  araujo & santos imobiliaria ltda me 1088  014347111/0001-83                         928,00           46,40   5,00000
+    00051865-4  FACE CONSULT E ASSESSORIA IMOB LTDA 0004  013569664/0001-18                      11.668,40          408,39   3,50000
+    00052075-6  VIDA NOVA SOLU  ES HABITACIONAIS    0002  012056217/0001-00                       7.323,48          146,46   2,00000
+    00052618-5  CREDINAMICO EMPREENDIMENTOS E ASSES 0007  011964387/0004-65                      26.268,51          525,37   2,00000
+    00053157-0  LEAL CRED INTERMEDIACAO DE CREDITO  3625  008262267/0001-69                      22.659,82          632,20   2,79000
+    00053970-8  SONHO E LAR ADM IMOBILI RIA LTDA-ME 1041  017643084/0001-84                       2.857,23           57,14   2,00000
+    00054069-2  SOMA ACCOUNTING ASSESSORIA CONTABIL 4461  015668706/0001-01                         348,00           17,40   5,00000
+    00054370-5  D S ASSESSORIA IMOBILIARIA LTDA     2458  015639811/0001-04                       8.052,78          309,22   3,84000
+    00054917-7  JRF ASSESSORIA IMOBILIARIA LTDA - M 1556  009454784/0001-00                       2.317,83          115,89   5,00000
+    00055533-9  IMOVEIS QUALITY LTDA ME             0008  018183304/0001-05                      10.252,50          512,62   5,00000
+    00055652-1  LCN SERVICOS ADMINISTATIVOS EIRELI  4331  008266683/0001-35                       8.370,01          418,50   5,00000
+    00056025-1  MV2 SOLUCOES IMOBILIARIAS LTDA - EP 1297  006111134/0001-66                      29.819,02        1.490,95   5,00000
+    00056124-0  CASA BRASILIA IMOVEIS LTDA ME       4760  011759588/0001-88                       3.522,08           70,44   2,00000
+    00056435-4  IMOBILIARIA ELIZEU DF LTDA ME       0643  016914468/0001-21                       8.965,08          179,30   2,00000
+    00056471-0  MAISON ASSESSORIA IMOBILI RIA LTDA  0643  016694313/0001-27                       2.009,00           40,18   2,00000
+    00056472-9  PORTUGAL IMOVEIS LTDA - ME          0643  016709711/0001-70                       2.724,80           54,49   2,00000
+    00056702-7  JLS BARRETO                         1041  018400313/0001-00                          90,00            4,50   5,00000
+    00057730-8  SUPERA CONSULTORIA E ASSESSORIA FIN 3310  018491677/0001-35                      35.192,42        1.759,62   5,00000
+    00058372-3  FINAX NEGOCIAL INTERM. FINANCEIRA L 4462  011814927/0003-43                         934,29           18,68   2,00000
+    00058458-4  DPRL NEGOCIOS IMOBILIARIOS LTDA     1502  019372954/0001-53                      27.269,87        1.363,49   5,00000
+    00058946-2  CREDLINK CREDITO IMOBILIARIO LTDA M 1985  012034478/0002-00                       6.052,63          302,63   5,00000
+    00059432-6  FERRARI SEG PLANEJ E CORRETORA D SE 0847  012059609/0001-15                      16.147,25          807,35   5,00000
+    00060174-8  CARBONERI & ALBUQUERQUE COMERCIAL D 1041  016548775/0001-36                      29.545,96        1.477,29   5,00000
+    00060309-0  ASA GESTAO EMPRESARIAL LTDA - ME    4463  020383685/0001-00                       6.081,00          304,05   5,00000
+    00060329-5  S&S CONSULTORIA EM INVEST FIN LTDA  4483  017853767/0001-66                       2.800,00          140,00   5,00000
+    00061313-4  SAMPAIO IMOVEIS DF LTDA - ME        2272  002197071/0001-51                       1.255,00           62,75   5,00000
+    00061713-0  casa nova consultoria imobiliaria e 3872  019386472/0001-52                          26,00            0,52   2,00000
+    00061994-9  BORGES AGUIAR CORRESPONDENTE IMOBIL 3513  011336284/0001-08                       7.297,12          364,85   5,00000
+    00062113-7  JOSEMAR ALVES DOS SANTOS            4221  014381979/0001-08                       3.198,46          159,92   5,00000
+    00062241-9  FACILLIT  IMOBILI RIA LTDA ME       1041  009525586/0001-82                      13.900,40          278,00   2,00000
+    00062732-1  AGILIZA PROCESSOS IMOBILIARIOS LTDA 4462  008978174/0001-35                       8.032,00          401,60   5,00000
+    00062793-3  SMARTCRED IMOVEIS SERVICOS ADMINIST 1990  019590023/0001-21                      10.221,58          204,43   2,00000
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    3
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    00062846-8  LEONARDO RIZZO PARTICIPACOES IMOB L 0816  002427169/0014-72                           0,00            0,00   5,00000
+    00063052-7  CDI CONSULTORIA E GESTAO DE NEGOCIO 2893  020043927/0001-16                      34.072,92          681,45   2,00000
+    00063187-6  Rosa & Silva Agente Imobili rio LTD 0688  022177386/0001-44                       5.951,17          297,55   5,00000
+    00063329-1  SBS IMOVEIS GESTAO IMOBILIARIA LTDA 3035  014959815/0001-07                         197,25            9,86   5,00000
+    00063361-5  GS INTERMEDIA  ES E CONS RCIOS EIRE 0533  014666265/0001-38                      14.265,58          713,27   5,00000
+    00063457-3  TELLES CONSULTORIA FINANCEIR EM GES 0007  020011218/0001-59                      12.386,77          619,33   5,00000
+    00063646-0  KRAMER - CONSULTORIA IMOBILIARIA LT 4483  019242595/0001-10                       9.051,50          452,57   5,00000
+    00063675-4  PRIME ADMINISTRA  O E SERVI OS EIRE 0002  018956791/0001-93                      51.344,85        1.971,64   3,84000
+    00064473-0  CASA NOVA EMPREEND IMOBILIARIOS LTD 0010  021489076/0001-00                       1.763,86           88,19   5,00000
+    00064767-5  GPA ASSESSORIA IMOBILIARIA LTDA     4482  014237396/0001-08                           0,00            0,00   5,00000
+    00065004-8  LELIS BARRETO EIRELI ME             1041  023318281/0001-20                      14.855,02          742,75   5,00000
+    00065144-3  VALORE GESTAO IMOBILIARIA EIRELI    4501  023997167/0001-74                      16.226,75          811,33   5,00000
+    00065223-7  FENIX NEGOCIOS IMOBILIARIOS LTDA ME 1985  010696264/0001-85                           6,72            0,33   5,00000
+    00065470-1  CARVALHO DIAS IMOVEIS LTDA - ME     0974  012477838/0001-50                           0,00            0,00   5,00000
+    00065491-4  EFFETIVA ASSESSORIA E SERVICOS ADMI 3002  013513811/0001-38                           0,00            0,00   5,00000
+    00016760-6  CONCEITO - CONSULTORIA, PROJETOS E  1511  004497263/0001-09  ,                    8.701,82          435,09   5,00000
+    00011809-5  PANIFICADORA E CONFEITARIA OURO BRA 3002  001374756/0001-63  ISENTO               2.833,92           79,06   2,79000
+    00029771-2  EXPRESSO IMOVEIS ADM DE NEGOCIOS    0688  010928399/0001-29  ISENTO                   0,00            0,00   5,00000
+    00038104-7  ARISTIDES EMPREEND IMOBILIARIOS LTD 0643  013055895/0001-03  ISENTO               5.157,50          103,15   2,00000
+    00023698-5  MJN CONSULTORIA IMOBILIARIA LTDA    0009  011315098/0001-92  000000               9.905,00          495,25   5,00000
+    00023601-2  TEIXEIRA & SOUSA EMPREENDIMENTOS IM 4482  010843794/0001-09  0000000000           4.251,20          212,56   5,00000
+    00049829-7  SUPERA SERV DE ESCR E DE APO ADM LT 2407  015600170/0001-84  0000000000          19.096,58          954,82   5,00000
+    00034625-0  CONSTRUINDO SONHOS IMOBILIARIA LTDA 1040  012638629/0001-40  00000000000000       1.453,78           72,68   5,00000
+    00017470-0  SIA, DF                             2407  000360305/2407-68  0731282502119            0,00            0,00   5,00000
+    00051554-0  DOCE VIDA MERCADO E TRANSPORTES LTD 0972  006095860/0002-13  0745252200157        4.235,87          162,65   3,84000
+    00032851-0  LEOPOLDO NASCIMENTO EMPREENDIMENTOS 4760  006175569/0001-74  07453690000123           0,00            0,00   5,00000
+    00051010-6  BELA MARES EMPREENDIMENTO IMOBILIAR 2407  006295815/0001-21  07456088000184           0,00            0,00   5,00000
+    00040968-5  ABEC COMERCIO DE GENEROS ALIMENTICI 0008  008599097/0001-02  0748392200189            0,00            0,00   5,00000
+    00048496-2  GAZU SERV DE DIGITACAO E INFORMATIC 2407  008789633/0001-32  0748696000139        1.237,50           61,87   5,00000
+    00031106-5  BRASIL CAPITAL EMPREENDIMENTOS IMOB 0008  009582569/0001-87  0750433900157       10.475,24          523,76   5,00000
+    00056534-2  MEGAIM VEIS CONSULTORIA IMOBILI RIA 1088  010221258/0002-52  0750743200196        4.907,39          245,36   5,00000
+    00052819-6  VALADARES SERV PRESTADOS A EMPRESAS 3035  000641456/0001-30  0751283600135        1.475,50           73,77   5,00000
+    00022524-0  J RODRIGUES NEVES ESCRITORIO IMOBIL 2272  010573737/0001-57  07515362000117       8.742,49          437,12   5,00000
+    00051506-0  GESTORA DE IMOVEIS LTDA ME          2407  010642702/0001-22  0751666000181          600,00           30,00   5,00000
+    00021782-4  WELLINGTON HENRIQUE SIMIONI         0643  037090016/0001-42  0751804600154            0,00            0,00   2,00000
+    00021460-4  Ladher  Empr Imob e rep ltda        0688  037397585/0001-35  0751873500104            0,00            0,00   5,00000
+    00028569-2  CASA MINHA CONSULTORIA IMOBILIARIA  1556  011868430/0001-46  0753853400119       12.297,48          245,94   2,00000
+    00032801-4  ALTANA IMOBILIARIA LTDA             1041  011975465/0001-84  0754040700104       10.059,18          502,95   5,00000
+    00059144-0  DROGARIA NUNES PERES LTDA - ME      4331  012049641/0001-10  0754105500104        3.319,72          165,98   5,00000
+    00047562-9  MRPR EMPREENDIMENTOS IMOBILIARIOS L 0008  013609879/0001-15  0757308300147        6.115,24          305,76   5,00000
+    00060427-5  UNICRED SOLU  ES DE CREDITO LTDA-ME 1342  014473118/0001-41  0758941600110        2.651,30           53,02   2,00000
+    00047988-8  JJLL - SUPR. E SERV INF. CONTAB. LT 0973  014967919/0001-63  0759712800128        2.603,52           52,06   2,00000
+    00049416-0  REGRA EMPREENDIMENTOS IMOBILIARIOS  1088  015195070/0001-10  0760139100197       11.922,95          596,14   5,00000
+    00057288-8  CRESCER SERV DE ORIENT A EMPREEND S 0647  015692960/0001-37  0761055500192            0,00            0,00   5,00000
+    00056368-4  BR HOUSE INTELIGENCIA IMOBILIARIA L 2407  016630405/0001-43  0761733100100        3.146,33          157,31   5,00000
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    4
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    00058909-8  RAMOS CONSULTORIA LTDA ME           0008  012967076/0001-70  0762903300170       11.003,10          220,06   2,00000
+    00059546-2  TOFT ASSESOR E CONSULTO IMOBILIARIA 2407  017377168/0001-13  0763116500150        3.061,38          153,06   5,00000
+    00056639-0  ASTIR ASSESSORIA TEC IMOB E PARTIC  0655  010237318/0009-00  0764020600241            0,00            0,00   5,00000
+    00058570-0  AGENCIA CREDIMOB LTDA EPP           1057  019308098/0001-77  0766487100171       14.006,00          280,12   2,00000
+    00059957-3  Presta  o Serv e cobr ext jud Conso 0655  024922411/0001-00  0768163500197        5.810,02          116,20   2,00000
+    00040869-7  WALTIDES E RENATO GIRAO ASSESSORIA  0005  013772128/0001-15  1377212800011       22.906,00        1.145,30   5,00000
+    00052107-8  JRV IMOVEIS LTDA - ME               4511  002863128/0001-04  14378               13.328,62          666,43   5,00000
+    00031814-0  JUCELINO IMOVEIS LTDA               2407  037833803/0001-37  346586               1.680,65           84,03   5,00000
+    00054742-5  HABITAR CORRESPONDENTE IMOBILIARIO  3052  011788275/0001-58  52202774140              0,00            0,00   5,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                        1.055.373,06       42.806,73
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                             652.918,52       32.645,67   5,00000
+                                                                                                270.960,14        5.419,07   2,00000
+                                                                                                 94.332,26        3.622,34   3,84000
+                                                                                                 11.668,40          408,39   3,50000
+                                                                                                 25.493,74          711,26   2,79000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                       1.055.373,06       42.806,73
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    04000274-8  LOTERICA COMERCIAL SUL              1041  005145249/0001-09                       8.975,07          269,22   3,00000
+    04000277-2  ROCHA & LEAL LOTERICA LTDA          0630  000014639/0001-26                      10.281,99          286,83   2,79000
+    04000278-0  ADILSON DE LUCA RIBEIRO             0002  000431296/0001-03                       7.470,99          208,40   2,79000
+    04000281-0  CASA LOT SONHO FELIZ                0004  000109595/0001-18                       7.459,00          149,15   2,00000
+    04000283-7  SERRA PELADA LOTERIAS LTDA          0630  000674218/0001-21                      35.360,76        1.768,01   5,00000
+    04000284-5  MARCOLINI LOTERICA                  0004  000657676/0001-52                       7.484,79          208,79   2,79000
+    04000285-3  LOTERICA 209 LTDA                   0816  000683383/0001-40                       9.463,27          263,99   2,79000
+    04000287-0  CASA LOT CHAVE OURO                 0006  003602109/0001-97                       7.239,89          201,97   2,79000
+    04000288-8  LOTERIA FIQUE RICO LTDA             0630  024891806/0001-85                      23.470,60        1.173,51   5,00000
+    04000289-6  FERNANDO SOUZA DAMACENO ME          2893  026469544/0001-90                       7.867,12          393,32   5,00000
+    04000292-6  LOTERIA PARKSORTE LTDA - ME         2304  038052411/0001-01                      12.167,79          339,46   2,79000
+    04000294-2  POTE DE OURO LOTERIA                1057  072653504/0001-11                       7.561,70          151,20   2,00000
+    04000295-0  BCA REV. PRIMAVERA                  1057  000843326/0001-80                       5.726,12          286,28   5,00000
+    04000299-3  GG LOTERIAS LTDA                    0004  001371619/0001-75                      10.295,12          287,20   2,79000
+    04000306-0  LOTERICA LAGO SUL LTDA              0674  003688941/0001-58                       6.364,95          177,55   2,79000
+    04000311-6  LOTERIA PONTO TREZE LTDA            0006  000498634/0001-16                       7.947,84          221,72   2,79000
+    04000317-5  LOTERIAS CARTAO DE OURO EIRELI - ME 1057  001607837/0001-66                       5.913,57          118,24   2,00000
+    04000320-5  LOT JOGADA CERTA                    0007  024896250/0001-10                      30.153,10          841,25   2,79000
+    04000322-1  LOTERIA PE QUENTE                   0974  032918039/0001-89                       9.285,81          464,26   5,00000
+    04000323-0  ADRIANA T N V MORAIS                2403  005125998/0001-74                       7.477,58          149,51   2,00000
+    04000326-4  LOT RODOFERROVIARIA                 0974  037084357/0001-05                       7.363,24          147,23   2,00000
+    04000329-9  RMBB LOTERIAS LTDA                  2304  001718540/0001-78                      14.136,85          394,40   2,79000
+    04000331-0  HG LOTERIA                          2403  072594930/0001-21                       8.915,20          248,71   2,79000
+    04000332-9  LOTERIA LAS VEGAS LTDA ME           0974  072600844/0001-84                       6.349,67          126,97   2,00000
+    04000341-8  BORGES E CIA LTDA                   0004  000620249/0001-08                       7.644,57          213,25   2,79000
+    04000344-2  CASA LOTERICA VITORIA LTDA ME       2458  001356638/0001-22                       9.392,74          328,71   3,50000
+    04000345-0  APOSTA CERTA LOTERIA LTDA - ME      0007  001418160/0001-18                       9.979,56          349,25   3,50000
+    04001531-9  SACI LOTO REVISTA LTDA-ME           4462  000326264/0001-30                      12.778,03          447,19   3,50000
+    04001532-7  LOTERICA SETOR SUDOESTE ECONOMICO   1502  000376277/0001-13                      10.460,15          291,81   2,79000
+    04001534-3  PONTO TREZE LOTERIA                 2407  000539379/0001-02                      11.379,59          317,47   2,79000
+    04001537-8  CASA LOTERICA OLIMPICA LTDA         2272  000610022/0001-73                      30.217,70        1.057,59   3,50000
+    04001538-6  NENENS CHOPP                        0008  000114314/0001-15                      11.112,21          555,58   5,00000
+    04001539-4  LOTERICA TAGUASUL LTDA              0008  000677369/0001-33                       8.469,00          236,26   2,79000
+    04001541-6  LOTERICA ESTRELA LTDA               4463  000687624/0001-29                      14.470,88          403,71   2,79000
+    04001543-2  ESQUINA LOTERICA                    0655  000712943/0001-47                      15.898,23          794,89   5,00000
+    04001547-5  OLIVEIRA E VILELA LTDA              4166  000697979/0001-07                      13.604,50          680,19   5,00000
+    04001548-3  CASA LOTERICA SAO TOME LTDA         0655  003581428/0001-63                       9.963,89          277,96   2,79000
+    04001549-1  RANGEL & NOGUEIRA RANGEL LTDA ME    0688  003619913/0001-89                      12.496,59          624,80   5,00000
+    04001551-3  CASA LOTERICA FORTUNA LTDA ME       2272  024923088/0001-81                      15.108,50          421,51   2,79000
+    04001552-1  MILIONARIA LOTERICA                 1502  032930216/0001-42                      12.027,19          335,54   2,79000
+    04001554-8  GUILHERME LOTERIAS LTDA ME          2399  011260547/0001-42                      11.200,14          312,45   2,79000
+    04001555-6  CASA LOTERICA SANTO EXPEDITO        0655  001597152/0001-86                      31.089,56        1.088,10   3,50000
+    04001557-2  LC LOTERIAS LTDA                    2407  004223280/0001-58                       9.505,02          475,21   5,00000
+    04001558-0  LOTERICA LAYANNE LTD                0655  026981621/0001-97                      12.428,87          621,42   5,00000
+    04001570-0  MM LOTERIAS LTDA                    1040  072597875/0001-23                      15.575,03          434,51   2,79000
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    2
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    04001571-8  LOTERICA ESTACAO DO FUTURO LTDA     1556  072594989/0001-10                      10.619,27          371,65   3,50000
+    04001577-7  CASA TREVO LOTERIA                  4166  000537379/0001-73                      10.014,70          279,38   2,79000
+    04001578-5  LOTERIAS SILVA SILVA                3035  001742530/0001-78                      17.054,58          521,84   3,06000
+    04002413-0  LOTERICA SUCESSO LTD                0688  001254291/0001-07                      12.502,40          348,79   2,79000
+    04003402-0  M.R. LOTERIAS LTDA                  2403  001868557/0001-01                       8.887,84          247,93   2,79000
+    04003659-6  CRISTAL LOTERICA LTDA               0973  000446914/0001-80                      16.373,71          456,79   2,79000
+    04003660-0  SOBRADINHO LOTECA LTDA              0972  000605717/0001-67                      24.175,46        1.208,75   5,00000
+    04003661-8  LOTERIA TIO PATINHAS LTDA           0972  033513169/0001-02                      14.156,18          495,43   3,50000
+    04003662-6  LOTCA E LOC PLANALTINA LTDA         0973  037988961/0001-66                      17.353,03          484,12   2,79000
+    04005605-8  MARANGON LOTERIAS LTDA              2399  033455650/0001-80                       9.276,51          258,79   2,79000
+    04006399-2  FREITAS LOTERIAS LTDA               0007  002179830/0001-53                      10.775,92          377,13   3,50000
+    04006432-8  LOGICA LOTERICAS LTDA               3001  002447433/0001-15                      23.419,98          819,67   3,50000
+    04006439-5  PESSOA E EWERTON LTDA               2399  002498144/0001-45                      16.902,39          471,55   2,79000
+    04006521-9  LOTERIAS AEROPORTO LTDA - ME        0003  000651497/0001-08                       6.932,42          346,59   5,00000
+    04006545-6  F&C LOTERIAS LTDA                   4166  002499195/0001-91                      15.100,08          421,26   2,79000
+    04006546-4  LOTERIA ADONIS LTDA ME              2272  002622815/0001-38                      20.183,25          563,07   2,79000
+    04006547-2  CASA LOTERICA RUMO DA FORTUNA LTDA  2399  001615715/0001-11                      12.357,05          617,83   5,00000
+    04006551-0  CASA LOTERICA CRUZEIRO DO SUL LTDA  1502  002614518/0001-40                      10.909,52          381,80   3,50000
+    04006593-6  SORTSHOP LOTERIAS LTDA              0655  002665295/0001-40                      17.255,05          862,72   5,00000
+    04006712-2  LOTERICA NACIONAL LTDA              0630  002779859/0001-76                       6.763,22          188,66   2,79000
+    04006845-5  R & M LOTERIAS LTDA ME              0974  002840845/0001-10                      10.959,00          547,93   5,00000
+    04006846-3  LOTERIA QUATROCENTOS E TREZE SUL LT 0816  001802308/0001-13                       8.540,47          238,24   2,79000
+    04006915-0  JKV LOTERIAS LTDA                   4460  005952479/0001-80                       9.606,70          268,00   2,79000
+    04006982-6  LOTERICA 516 SUL JR LTDA ME         1057  002966481/0001-10                      15.822,76          441,43   2,79000
+    04006983-4  LOTERICA TREVO DA SORTE LTDA-ME     4331  002966774/0001-05                      18.142,21          384,59   2,12000
+    04006984-2  MACHADO & MELO LOTERICA LTDA-ME     0816  003043992/0001-22                       8.657,66          241,52   2,79000
+    04007204-5  SAITO & SAITO LTDA                  1057  003244056/0001-80                       9.058,43          252,70   2,79000
+    04007232-0  IOSCA VIERO LOTERIAS LTDA           3625  003018895/0001-80                      11.985,31          359,55   3,00000
+    04007273-8  TERRACO LOTERIAS LTDA ME            1502  003253876/0001-38                      10.705,64          374,66   3,50000
+    04007409-9  PB LOTERIAS LTDA                    0643  002802071/0001-33                      16.487,50          633,08   3,84000
+    04007427-7  AIAN LOTERICA LTDA ME               1041  003308619/0001-56                      12.837,82          385,11   3,00000
+    04007453-6  CASA LOTERICA SANDU LTDA-ME         2399  002442968/0001-01                       9.354,36          260,96   2,79000
+    04007468-4  CASA LOTERICA TRILHA DA SORTE       4166  003334811/0001-17                      19.931,32          556,05   2,79000
+    04007532-0  LOTERIAS MILLENNIUM LTDA me         2272  003210269/0001-90                      13.885,96          277,69   2,00000
+    04007535-4  J EG FRANQUIAS COMERCIO DE LOTERIAS 0974  002940262/0001-61                      11.542,54          577,09   5,00000
+    04007703-9  OTANI LOTERIAS LTDA                 4483  003286620/0001-27                      18.239,04          508,83   2,79000
+    04007730-6  MRC LOTERIAS LTDA ME                1556  003484767/0001-21                      14.510,55          404,81   2,79000
+    04007742-0  LOTERICA SORRISO LTDA               4166  003464403/0001-80                      24.554,22          542,62   2,21000
+    04007920-1  SOLANGE GRANGEIRO & CIA LTDA FILIAL 2272  003569034/0002-70                       6.677,33          133,51   2,00000
+    04008040-4  RMBB LOTERIA LTDA - FILIAL          2304  001718540/0002-59                       4.956,93           99,11   2,00000
+    04008097-8  OLIVEIRA E VILELA LTDA              4166  000697979/0002-80                       6.951,11          347,52   5,00000
+    04008274-1  SOLANGE GRANGEIRO & CIA LTDA        2272  003569034/0001-90                      17.514,86          488,62   2,79000
+    04008300-4  LOTERIAS CONJUNTO NACIONAL LTDA     0630  001333316/0001-68                      17.135,15          856,74   5,00000
+    04008301-2  CNB LOTERIAS LTDA                   0630  005901876/0001-22                      22.834,63          637,06   2,79000
+    04008372-1  CASA JERUSALEM LTDA                 0643  002270789/0001-26                      10.011,33          279,29   2,79000
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    3
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    04008373-0  LOTERIA SMART LTDA                  2407  003648183/0001-44                       5.427,77          151,42   2,79000
+    04008384-5  LOTERICA C 8 LTDA                   0008  003741000/0001-30                      15.794,39          440,64   2,79000
+    04008411-6  CASA LOTERICA JORDAO LTDA           2272  003560217/0001-44                      15.314,45          427,25   2,79000
+    04009856-7  BRASILIA COM E JOGOS LOTERICOS LTDA 0008  003012541/0001-28                      10.092,85          281,55   2,79000
+    04010065-0  LOTERICA PATRIOTA LTDA ME           1041  003894019/0001-17                       8.849,50          176,96   2,00000
+    04010430-3  BARBOSA LOTERICA LTDA               2893  003863846/0001-43                       6.696,93          186,82   2,79000
+    04010826-0  AZZI LOTERIAS LTDA                  0655  004025294/0001-67                      14.353,75          400,44   2,79000
+    04011641-7  MRS LOTERICA LTDA                   0664  004016974/0001-14                       8.334,44          416,70   5,00000
+    04011774-0  LOTERICA MAGIA DA SORTE LTDA        0007  003894280/0001-17                      10.888,32          303,76   2,79000
+    04012428-2  LOTERIA 408 NORTE LTDA              0007  004037018/0001-19                       9.429,52          263,06   2,79000
+    04012504-1  NOSSA SENHORA APARECIDA LOTERICA LT 0643  004327390/0001-60                      10.118,15          282,27   2,79000
+    04012591-2  LOTERIA SAO JOSE LTDA ME            0972  004384777/0001-58                      17.987,78          899,36   5,00000
+    04012620-0  XINGU LOTERIAS LTDA ME              0674  004398870/0001-11                      11.941,76          417,93   3,50000
+    04012764-8  ABRAO MERCANTIL LTDA                0674  004506950/0001-43                      14.217,40          396,64   2,79000
+    04012904-7  LOTERICA AGITTUS LTDA               2272  004450700/0001-39                      17.495,95          488,10   2,79000
+    04012980-2  SANTA SORTE LOTERICA LTDA ME        3001  004605708/0001-27                      17.778,34          495,99   2,79000
+    04013041-0  CASA LOTERICA MARIANA LTDA          3310  004637048/0001-66                       8.479,12          423,92   5,00000
+    04013071-1  LOTERICA TRILHA CERTA LTDA          2403  004600566/0001-05                       6.966,01          194,32   2,79000
+    04013083-5  UNIDADE LOTERICA DOM BOSCO LTDA     3513  004655589/0001-17                      19.766,80          551,47   2,79000
+    04013901-8  LOTO SIA LOTERIAS LTDA              2407  004843956/0001-06                      12.336,78          344,17   2,79000
+    04014078-4  LOTERIAS ESPERANCA LTDA             2399  005020717/0001-19                       9.175,77          255,97   2,79000
+    04014137-3  LOTERICA NOVA AMAZONAS LTDA ME      1041  003798830/0001-02                       9.761,71          272,32   2,79000
+    04014139-0  MELO & CALDAS LTDA -ME              4462  032919847/0001-60                      11.304,28          315,36   2,79000
+    04014297-3  LOTERICA JADE LTDA                  0007  005037594/0001-29                       7.890,40          220,12   2,79000
+    04014337-6  LOTERIA DOIS DA SORTE LTDA          0647  005052232/0001-07                       8.998,02          251,01   2,79000
+    04014889-0  LOTERICA PARANOA LTDA ME            3513  004840447/0001-20                      21.903,57          611,08   2,79000
+    04014940-4  FADA LOTERICA LTDA                  2272  004651633/0001-10                      15.677,25          437,36   2,79000
+    04015002-0  LOTERIA SORTE EXTRA LTDA            2407  005294496/0001-77                       9.276,49          258,78   2,79000
+    04015008-9  CASA LOTERICA PEREIRA E ARAUJO LTDA 0008  005200374/0001-74                      12.232,40          611,60   5,00000
+    04015090-9  TCR LOTERIAS LTDA                   1040  005089988/0001-20                      17.969,74          628,90   3,50000
+    04015180-8  CASSINO LOTERIAS LTDA - ME          0816  005005991/0001-19                       6.673,61          186,18   2,79000
+    04015242-1  ESPLANADA BANCA DE JORNAIS E LOTERI 0863  005372055/0001-46                      10.212,05          357,39   3,50000
+    04015300-2  LOTERIAS C 12 LTDA                  0008  005405792/0001-06                      15.735,82          550,72   3,50000
+    04015303-7  AGENCIA LOTERICA TAGUACENTER LTDA   1556  005232929/0001-60                      12.065,86          336,61   2,79000
+    04015397-5  SENNA LOTERICA LTDA - ME            0008  005419872/0001-02                      16.526,51          461,08   2,79000
+    04015470-0  SORTE & SORTE LOTERIAS LTDA ME      0643  005437210/0001-65                      10.891,63          303,85   2,79000
+    04015472-6  CASA LOTERICA REAL FORTUNA LTDA     2272  005435835/0001-98                      19.841,78          553,56   2,79000
+    04015482-3  LOBATO LOTERIAS LTDA                1985  005436908/0001-66                      25.101,27        1.255,04   5,00000
+    04015483-1  LOBATO LOTERIAS LTDA - FILIAL       1985  005436908/0002-47                       6.281,82          314,06   5,00000
+    04015583-8  JUNIOR LOTERIAS LTDA                0010  005620035/0001-47                       9.601,46          267,84   2,79000
+    04015607-9  MLM LOTERIAS LTDA                   1041  005654471/0001-37                      15.514,31          465,40   3,00000
+    04017580-4  CASA LOTERICA 106 SUL LTDA          0006  005945692/0001-64                       8.920,74          248,86   2,79000
+    04017733-5  LOTERIAS BRASILIA LTDA-ME           3002  006071384/0001-10                      11.125,89          310,39   2,79000
+    04017789-0  TAKARAKUJI LOTERIAS LTDA ME         4167  006165588/0001-10                      21.127,04        1.056,31   5,00000
+    04017941-9  LOTERICA AGUAS CLARAS LTDA ME       3494  007029722/0001-18                      15.297,12          426,75   2,79000
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    4
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    04017987-7  LOTERIAS CASA NOVA LTDA ME          0655  006986789/0001-88                      11.533,46          321,76   2,79000
+    04018047-6  WANDS LOTERIAS LTDA                 0674  007115817/0001-54                       8.390,04          234,04   2,79000
+    04018113-8  COMERCIAL LOTERICA TREVO LTDA - ME  0972  007053603/0001-09                      12.203,08          610,12   5,00000
+    04018149-9  BANCA DE JORNAL E CASA LOTERICA BUR 2403  007129525/0001-70                       4.933,39          137,61   2,79000
+    04018166-9  PARAISO DA SORTE LOTERICA LTDA - ME 0004  007133284/0001-33                       6.717,82          187,40   2,79000
+    04018176-6  LOTERICA GUAR  SORTE LTDA ME        0643  007124442/0001-99                      12.405,12          346,08   2,79000
+    04018407-2  LOTERICA RADIO CENTER LTDA ME       0974  007344660/0001-39                       7.846,57          156,90   2,00000
+    04018409-9  CASA LOTERICA VASCONCELOS LTDA ME   0674  007348040/0001-78                       5.239,46          104,77   2,00000
+    04019305-5  BB LOTERIAS LTDA                    2458  010519639/0001-31                       8.144,77          227,21   2,79000
+    04019581-3  LOTERICA 3 IRMAOS LTDA ME           0674  010771217/0001-59                      19.948,67          398,94   2,00000
+    04019903-7  LD LOTERICA LTDA ME                 0973  010955678/0001-81                      23.323,13          466,44   2,00000
+    04020218-6  LOTERIAS CASTELO FORTE              4167  011115613/0001-90                      15.149,31          422,64   2,79000
+    04020531-2  JJS PRODUTOS LOTERICOS LTDA         3002  012142073/0001-05                      22.991,11          459,79   2,00000
+    04021411-7  LOTERICA RIACHO DA SORTE LTDA       3035  014504311/0001-00                      12.882,46          359,40   2,79000
+    04022047-8  AGENCIA LOTERICA COMERCIAL NORTE LT 0008  015378743/0001-77                       3.267,65           65,34   2,00000
+    04022128-8  AGENCIA LOTERICA MINEIRA LTDA       1040  015378212/0001-84                      10.981,80          219,60   2,00000
+    04022129-6  AGENCIA LOTERICA VEREDAS LTDA       3872  015378733/0001-31                      11.879,61          237,56   2,00000
+    04022131-8  CASA LOTERICA SERRA DA MESA LTDA    0674  015725459/0001-20                       7.614,85          380,71   5,00000
+    04022139-3  LOTERICA BSB MANIA LTDA             3494  015636413/0001-34                      15.933,25          796,63   5,00000
+    04022525-9  LOTERICA PONTO DA SORTE LTDA - ME   4462  015522827/0001-32                       8.961,39          249,99   2,79000
+    04023923-3  LOTERICA VALE DA SORTE LTDA ME      0973  017999391/0001-00                      10.179,46          203,56   2,00000
+    04024362-1  LOTERICA DF425                      4460  019633236/0001-93                       8.232,38          164,61   2,00000
+    04024809-7  COML DE GEN ALIM AFONSO LTDA EPP    0973  001605162/0001-16                      10.167,88          508,37   5,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                    1.991.752,57       64.723,81
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    04000334-5  LOTERIAS LAGO NORTE                 3310  037988094/0001-69    0735334100167      7.639,30          381,94   5,00000
+    04019346-2  BILIO & ABREU LOTERICA COLORADO LTD 0972  010595505/0001-08  0                    8.721,70          174,41   2,00000
+    04019347-0  CASA LOTERICA VILA PLANALTO LTDA    2458  010559591/0001-95  0                   11.099,42          221,97   2,00000
+    04019349-7  LOTERICA MESTRE DARMAS LTDA ME      0973  010505743/0001-77  0                   14.929,36          298,56   2,00000
+    04019482-5  CASA LOTERICA LANCE CERTO LTDA      0973  010578616/0001-06  0                    8.093,46          161,85   2,00000
+    04019482-5  CASA LOTERICA LANCE CERTO LTDA      0973  010578616/0001-06  0                    5.075,74          141,59   2,79000
+    04019663-1  CASA LOTERICA MEGA PREMIO LTDA      0973  010774113/0001-06  0                   10.595,97          211,89   2,00000
+    04019664-0  SOBRADINHO CASAS LOTERICAS LTDA     3310  010545294/0001-90  0                    7.398,64          369,91   5,00000
+    04020029-9  BOULEVARD LOTERICA                  0007  011055349/0001-47  0                    9.328,01          186,53   2,00000
+    04020238-0  LOTEC LOTERIAS LTDA ME              3513  011240075/0001-66  0                   11.981,57          334,25   2,79000
+    04007686-5  LOTERICA NOVA ESPERANCA LTDA        1556  003229955/0001-03  00976/2011          10.157,89          283,37   2,79000
+    04018959-7  CASA LOTERICA BILHETE PREMIADO LTDA 3001  010464786/0001-51  0151277600188       17.209,46          344,15   2,00000
+    04012686-2  SAMUEL CREDMANN e FILHOS LTDA       0630  003617107/0001-71  071073612           28.655,43        1.432,75   5,00000
+    04019019-6  LOTERICA CAROLINA LTDA ME           0674  001570492/0001-13  0737763700103       23.263,12          649,01   2,79000
+    04007512-5  LOTERICA BOA SORTE LTDA             0973  003291779/0001-30  0739932500129       22.082,74          772,87   3,50000
+    04008410-8  ANPRIS SERV LOTERICOS LTDA          0688  003572746/0001-68  07405606/001-04     18.413,64          920,66   5,00000
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    5
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    04008141-9  ANPRI S SERVICOS LOTERICOS LTD      0688  003572746/0002-49  07405606/002-95      5.174,08          258,66   5,00000
+    04022121-0  MULTIPLENA COMERCIO DE MOVEIS E SER 4166  004936559/0002-60  0743146500286       12.619,01          252,35   2,00000
+    04019114-1  CASA LOTERICA ENCONTRO COM A SORTE  0972  038073375/0001-54  0750141200139       10.585,03          295,30   2,79000
+    04018896-5  LOTERICA GUARA                      3002  010229509/0001-64  0750748400126       16.274,41          454,02   2,79000
+    04018968-6  LOTERICA RECANTO DAS EMAS LTDA ME   4331  010238966/0001-15  0750770100105       19.228,97          536,44   2,79000
+    04018895-7  AR LOTERICA LTDA                    0655  010316413/0001-33  0750937300145        9.623,69          192,45   2,00000
+    04018912-0  NJ LOTERIAS LTDA ME                 0655  010352345/0001-68  0751013100156       11.362,55          316,98   2,79000
+    04018913-9  ONZE DA SORTE LOTERIAS LTDA ME      2893  010398312/0001-59  0751113600150        8.464,14          423,19   5,00000
+    04018925-2  R&A LOTERICAS LTDA                  3001  010414044/0001-11  0751156500182       19.451,05          972,52   5,00000
+    04018918-0  LOTERICA SAO SEBASTIAO LTDA         0674  010416299/0001-13  0751159300109       18.939,71          528,39   2,79000
+    04018908-2  JARDIM BOTANICO LOTERIA             0674  010421599/0001-90  0751171300113        9.914,98          276,60   2,79000
+    04019014-5  VJG LOTERICA LTDA                   1556  010454964/0001-63  0751258300190        9.948,15          198,93   2,00000
+    04019306-3  MAIS LOTERIAS LTDA ME               3310  010465286/0001-34  07512801/001-23      6.954,38          139,06   2,00000
+    04018960-0  CASA LOTERICA COMANDO DA SORTE LTDA 3001  010464631/0001-15  0751301300118       24.634,22          492,66   2,00000
+    04019011-0  MS CASA LOTERICA LTDA ME            4167  010483271/0001-07  0751318500182       14.256,23          397,72   2,79000
+    04019150-8  CASA LOTERICA QR 407 LTDA           4167  010526197/0001-50  0751413100161       12.684,46          253,67   2,00000
+    04019012-9  LOTERICA OFICINA DA SORTE LTDA ME   4331  010532694/0001-61  0751421000154       13.512,61          270,23   2,00000
+    04019018-8  SCALA LOTERIAS LTDA ME              2272  010539386/0001-68  0751433200196       12.216,32          340,79   2,79000
+    04019017-0  CASA LOTERICA MEGA SORTE LTDA ME    2399  010538337/0001-00  0751438800140       12.463,85          249,25   2,00000
+    04019126-5  CEILANDIA CASAS LOTERICAS LTDA      4166  010544136/0001-16  0751462500119       10.661,19          297,41   2,79000
+    04019096-0  LOTERICA SHOW DA SORTE LTDA         4483  010544352/0001-61  0751464400154       16.322,23          326,42   2,00000
+    04019183-4  LOTERICA DOURO LTDA                 2399  010532719/0001-27  0751470900180       10.807,16          216,12   2,00000
+    04019013-7  LOTERICA PRACA DO BICALHO LTDA      4462  010524370/0001-81  0751497000160       14.163,98          495,72   3,50000
+    04020030-2  LOTERIA CONTAGEM LTDA ME            0972  011021160/0001-33  0752469000187       12.148,66          607,41   5,00000
+    04020063-9  CASA LOTERICA FRUTUOSO LTDA ME      3494  011072497/0001-70  0752592800137        9.131,27          182,59   2,00000
+    04021371-4  LOTERIAS ASSUNCAO                   4166  014476515/0001-77  0758939800159       14.839,68          414,01   2,79000
+    04021350-1  LOTERIAS K E K ASSUNCAO LTDA ME     4167  014469915/0001-55  0758940900137       10.711,92          214,21   2,00000
+    04022034-6  AGENCIA LOTERICA QUINA DE OURO LTDA 4166  015378484/0001-84  0760514200152       17.860,59          357,18   2,00000
+    04022051-6  AGENCIA LOTERICA FERNANDES LF LTDA  3872  015378382/0001-69  0760514700120       15.620,98          312,39   2,00000
+    04022192-0  HIROSHI HIDEKI LOTERIA MEGA SORTE L 2399  015386171/0001-78  0760526400194        9.252,36          185,02   2,00000
+    04021966-6  J VIEIRA LOTERIA MEGA SORTE         3872  015416047/0001-08  0760592200157       15.519,51          310,37   2,00000
+    04022136-9  GARCIA & ANDRADE LOTERIAS LTDA      4166  015464362/0001-00  0760664400173       16.998,72          339,94   2,00000
+    04022052-4  AGENCIA LOTERICA MERCADO NORTE LTDA 4462  015472845/0001-57  0760673900132       11.454,49          229,07   2,00000
+    04023977-2  SRS LOTERIAS LTDA                   0972  018943168/0001-04  07658364000100       8.926,59          446,30   5,00000
+    04023916-0  TORRES E MARTINS LOTERIAS CAIXA E C 3513  018950578/0001-74  0765842800173       14.887,18          415,31   2,79000
+    04024452-0  CASA LOTERICA DEL LAGO LTDA  ME     2272  019450172/0001-95  0766735200138       11.864,12          330,98   2,79000
+    04024327-3  LOTERIA DA PRACA LTDA ME            3513  019621554/0001-34  0767056400190       15.969,93          445,53   2,79000
+    04018961-9  NUNES GUERRA CASAS LOTERICAS LTDA   1041  010479406/0001-52  1047940600152       12.083,38          337,10   2,79000
+    04001535-1  NACIONAL LOTERICA LT                0008  000430017/0001-89  5320010573-0         9.720,10          271,15   2,79000
+    04019408-6  LOTERICA CASTANHEIRAS LTDA          3494  008302413/0001-32  53201356485         13.415,37          268,27   2,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                          735.312,70       20.737,42
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    6
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 0002-PLANALTO, DF                                          PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 53/0010-8 BRASILIA
+ 
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              49.312,51        1.479,28   3,00000
+                                                                                              1.279.669,32       35.699,69   2,79000
+                                                                                                529.896,67       10.596,62   2,00000
+                                                                                                525.798,07       26.288,80   5,00000
+                                                                                                266.150,19        9.314,71   3,50000
+                                                                                                 17.054,58          521,84   3,06000
+                                                                                                 18.142,21          384,59   2,12000
+                                                                                                 16.487,50          633,08   3,84000
+                                                                                                 24.554,22          542,62   2,21000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                       2.727.065,27       85.461,23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO

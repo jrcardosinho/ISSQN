@@ -1,0 +1,220 @@
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0647            PAG:    1
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0647-5 - CAPITAL, DF                                                                             PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0647-5 CAPITAL, DF                           CNPJ: 00.360.305.0647-73              INSC. MUNICIPAL: 0731282502704
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 03 - SERVICOS PRESTADOS MEDIANTE LOCACAO, CESSAO DE DIREITO DE USO E CONG
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     03.02   7.1.7.99.55.56-8 RDAS DE TARIFAS S/UTILIZC DA MARCA CAIXA NO VCVC            5,00               39,12             1,95
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 10 - SERVICOS DE INTERMEDIACAO E CONGENERES
+     10.01   7.1.7.80.10.29-2 RENDAS DE PREST DE SERVICOS-PROD CAIXA SEGUROS              5,00           15.039,26           751,89
+     10.02   7.1.7.96.07.01-2 RENDAS DE CORRETAGEM TVM E DERIVATIVOS-PF                   5,00            8.049,76           402,48
+     10.02   7.1.7.99.55.24-0 RDAS DE TARIFAS AFILIACAO ESTAB COMERCIAL                   5,00            2.610,00           130,50
+     10.09   7.1.7.80.10.30-6 RENDAS DE TARIFAS DE CONSORCIO CAIXA SEGUROS                2,00               64,40             1,28
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+     15.01   7.1.7.80.10.27-6 RECEITA DE INTERCAMBIO-CARTAO DE CREDITO ELO                2,00          556.803,75        11.136,06
+     15.01   7.1.7.80.10.28-4 RENDAS DE INTERCAMBIO-CARTAO DE DEBITO ELO                  2,00       28.634.403,85       572.688,07
+     15.01   7.1.7.95.20.02-2 RENDAS DE TARIFA DE RENOVACAO ANUAL DE CCRED                2,00          306.594,16         6.131,90
+     15.01   7.1.7.95.22.01-7 RDAS DE TARIFAS DE SAQUE COM CARTAO DE CREDITOTO            2,00            9.875,00           197,50
+     15.01   7.1.7.95.22.02-5 RENDAS DE TARIFA DE SAQUE INTERNAC COM CCRED                2,00           26.412,00           528,24
+     15.01   7.1.7.96.05.02-8 RDAS DE ANUIDADE PERMANENCIA CCRED DIFERENCIADO             2,00       34.835.445,92       696.708,96
+     15.01   7.1.7.98.99.11-0 RENDAS SOBRE TARIFA DE SAQUE CCRED PJ                       2,00            1.478,15            29,56
+     15.01   7.1.7.98.99.13-7 RENDAS SOBRE TARIFA DE ANUIDADE PERMANENCIA PJ              2,00        1.422.859,73        28.457,21
+     15.01   7.1.7.99.50.10-8 RENDAS DE SERVS S/ INTERCAMBIO DE CCRED NACIONAL            2,00       27.596.073,18       551.921,47
+     15.01   7.1.7.99.50.11-6 RDAS DE SERVS S/ INTERCAMBIO CCRED INTERNACIONAL            2,00          556.530,31        11.130,60
+     15.01   7.1.7.99.50.12-4 RENDAS DE SERVS S/ INTERCAMBIO DE CCRED NACIONAL            2,00       22.284.201,30       445.684,00
+     15.01   7.1.7.99.50.13-2 RDAS DE SERVS S/ INTERCAMBIO CCRED INTERNACIONAL            2,00          485.289,15         9.705,79
+     15.01   7.1.7.99.55.46-0 RENDAS DE TARIFAS DE INTERCAMBIO NOS CDEB                   2,00       24.438.107,42       488.762,13
+     15.01   7.1.7.99.55.48-7 RENDAS DE TARIFAS DE INCENTIVO S/ACORDO STONE               2,00       24.577.488,29       491.549,76
+     15.02   7.1.7.96.06.03-2 RENDAS POR INATIVIDADE E MANUT CARTAO PRE-PAGO              5,00              990,85            49,54
+     15.02   7.1.7.99.55.12-6 RDAS DE TARIFAS S/ MANUTENCAO DE CONTAS ATIVAS              5,00            9.039,59           451,97
+     15.05   7.1.7.98.01.01-3 RDAS DE SERV S/ TARIFAS DE CADASTRO/RENOV PJ                5,00              641,30            32,06
+     15.05   7.1.7.98.02.03-6 RDAS DE SERV S/ TARIFAS DE EXCLUSAO DO CCF PJ               5,00            1.085,25            54,26
+     15.05   7.1.7.99.10.81-5 RDAS DE SERVS CONVENIO CADASTRAMENTO/REGUL CPF              5,00           44.107,00         2.205,34
+     15.06   7.1.7.98.02.10-9 RDAS TARIFAS PJ-FORNCTO DE MICROFILME/MICHOFICHA            5,00              624,72            31,23
+     15.06   7.1.7.98.99.12-9 RENDAS DE TARIFAS SOBRE EMISSAO DE DOCUMENTOS PJ            5,00              238,00-           11,90-
+     15.06   7.1.7.99.55.41-0 RDAS DE TARIFAS MALOTE EMPRESARIAL PJ                       5,00              910,00            45,50
+     15.07   7.1.7.94.01.01-5 RENDAS DE CESTA DE SERVICOS-PF                              5,00           64.369,44         3.218,47
+     15.07   7.1.7.95.13.02-6 RDAS DE TARIFAS DE EMISSAO EXTRATO ELETRONICO PF            5,00              321,14            16,05
+     15.07   7.1.7.96.99.10-3 RENDAS DE SERVICO S/ ENVIO DE EXTRATO ECT/PF                5,00               10,50             0,52
+     15.07   7.1.7.98.02.09-5 RDAS DE SERV TARIFAS DE EXTRATO EXCEDENTE PJ                5,00              363,80            18,19
+     15.07   7.1.7.98.99.01-3 RENDAS DE TARIFAS SOBRE PACOTES DE SERVICOS PJ              5,00           17.888,21           894,41
+     15.07   7.1.7.99.10.16-5 RENDAS DE SERVICOS PRESTADOS A CORRENTISTAS                 5,00               73,50             3,67
+     15.07   7.1.7.99.55.22-3 RDAS DE TARIFAS-COMPARTILHAMENTO DE REDE                    5,00              559,12            27,95
+     15.08   7.1.7.95.19.01-6 RENDAS DE TARIFAS SOBRE ADEP-PF                             5,00            9.828,91           491,44
+     15.08   7.1.7.95.24.01-0 RENDAS DE TARIFA DE AV  LIMITE EMERGENCIAL-CCRED            5,00        4.003.801,87       200.190,10
+     15.08   7.1.7.97.10.09-3 RDAS S/ TARIFA DE ABERTURA/RENOV DE OP DE CRED              5,00              335,47            16,77
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0647            PAG:    2
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0647-5 - CAPITAL, DF                                                                             PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0647-5 CAPITAL, DF                           CNPJ: 00.360.305.0647-73              INSC. MUNICIPAL: 0731282502704
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     15.08   7.1.7.98.04.01-2 RDAS TARIFAS PJ S/ ADIANTAMENTO A DEPOSITANTES              5,00              884,00            44,20
+     15.08   7.1.7.98.99.10-2 RENDAS SOBRE TARIFA DE AVALIACAO DE CRED PJ                 5,00           33.102,00         1.655,10
+     15.08   7.1.7.99.10.53-0 RDAS DE SERVS S/REGISTRO DE GARANTIAS - GRAVAMES            5,00               56,71             2,83
+     15.08   7.1.7.99.55.13-4 RENDAS DE TARIFAS MANUTENCAO DO CREDITO ROTATIVO            5,00            2.060,00           103,00
+     15.08   7.1.7.99.55.30-4 RDAS DE TARIFAS ABERTURA/RENOVACAO OP CRED PJ               5,00           17.192,00           859,59
+     15.10   7.1.7.40.10.01-8 RENDAS DE SERVICOS DE COBRANCA DE TITULOS                   5,00           28.502,01         1.425,07
+     15.10   7.1.7.80.10.02-0 RDAS SERVS PREST LIG -CX SEGUROS DEBITO EM CONTA            5,00               98,40             4,92
+     15.10   7.1.7.80.10.17-9 RENDAS DE TARIFAS DE SERVICOS DE ARRECADACAO                5,00            2.059,35           102,97
+     15.10   7.1.7.99.20.09-8 RENDAS DE TARIFA DE SERVS PREST A CONVENENTES               5,00            7.408,53           370,38
+     15.10   7.1.7.99.20.11-0 RENDAS DE TARIFA DE SERVS PREST A CONVEN SICAP              5,00           12.904,67           645,18
+     15.10   7.1.7.99.20.13-6 RENDAS DE TARIFA SERVICOS DE RECEBIMENTO DO FGTS            5,00              948,44            47,42
+     15.10   7.1.7.99.20.14-4 RENDAS DE TARIFA DE SERVS PREST A ORGAOS PUB FED            5,00            2.395,11           119,73
+     15.10   7.1.7.99.20.16-0 RENDAS DE TARIFA ARREC DE TRIB E REC ESTADUAIS              5,00            2.946,37           147,31
+     15.10   7.1.7.99.20.32-2 RENDAS DE TARIFA ARREC CONTRIBUICAO SINDICAL                5,00              152,22             7,61
+     15.10   7.1.7.80.10.20-9 OUTRAS RENDAS DE SERVICOS PRESTADOS A LIGADAS               5,00               24,58             1,22
+     15.10   7.1.7.99.10.60-2 RDAS DE SERVS SOBRE O PGTO DO FDO GARANTIA SAFRA            5,00          369.650,70        18.482,53
+     15.10   7.1.7.99.20.05-5 RDAS DE SERVS - PAGTO DO FGTS                               5,00           30.416,59         1.520,82
+     15.10   7.1.7.99.20.06-3 RENDAS DE TARIFA SOBRE O PAGTO DE SEG DESEMPREGO            5,00              322,67            16,12
+     15.10   7.1.7.99.20.10-1 RENDAS DE TAR DE SERVS PREST A CONVEN DO SIACC              5,00            9.157,50           457,84
+     15.10   7.1.7.99.20.15-2 RENDAS DE TARIFA DE ARRECADACAO DO INSS                     5,00            2.897,68           144,88
+     15.10   7.1.7.99.20.36-5 RENDAS DE SERV PROGRAMA DE VOLTA PRA CASA                   5,00                1,81             0,09
+     15.10   7.1.7.99.20.73-0 PROGRAMAS SOCIAIS-TARIFA DE PRESTACAO DE SERVICO            5,00              339,35            16,95
+     15.12   7.1.7.96.07.02-0 RENDAS DE CUSTODIA DE TVM DE PESSOA FISICA                  5,00           20.056,41         1.002,82
+     15.13   7.1.7.95.25.01-6 RDAS DE SERVICOS TARIFA DE COMPRA OP DE CAMBIO              5,00              100,00             5,00
+     15.13   7.1.7.95.25.03-2 RDAS DE SERVICOS TARIFA DE VENDA OP DE CAMBIO               5,00            5.000,00           250,00
+     15.13   7.1.7.99.10.26-2 RDAS DE SERVS S/ OP DE VENDA MOEDA ESTRANGEIRA              5,00               20,00             1,00
+     15.14   7.1.7.95.03.01-2 RENDAS DE TARIFAS DE 2  VIA DE CARTAO DE DEBITO             5,00               87,02             4,35
+     15.14   7.1.7.95.04.01-9 RENDAS DE FORNECIMENTO DE 2  VIA CARTAO POUPANCA            5,00              652,62            32,63
+     15.14   7.1.7.95.20.01-4 RDAS DE TARIFAS ANUIDADE INICIAL CCRED BASICO-PF            5,00               35,50             1,77
+     15.14   7.1.7.95.21.01-0 RENDAS DE TARIFA DE EMISS O DE SEGUNDA CCRED                5,00           21.185,76-        1.059,29-
+     15.14   7.1.7.96.05.01-0 RENDAS DE ANUIDADE PARA CCRED DIFERENCIADO                  5,00            3.729,57-          186,49-
+     15.14   7.1.7.98.99.08-0 RENDAS SOBRE TARIFA DE ANUIDADE INICIAL PJ                  5,00               27,84             1,39
+     15.14   7.1.7.99.20.23-3 RENDAS DE TARIFA SOBRE SERVICOS CARTOES SOCIAIS             5,00               11,72             0,58
+     15.15   7.1.7.95.11.01-5 RENDAS DE TARIFAS PF-SAQUES GUICHE DE CAIXA                 5,00              437,80            21,89
+     15.15   7.1.7.95.11.02-3 RENDAS DE TARIFAS PF-SAQUES AUTO-ATENDIMENTO                5,00           11.742,42           587,11
+     15.15   7.1.7.95.11.03-1 RENDAS DE TARIFAS PF-SAQUES EM CORRESPONDENTES              5,00            1.819,15            90,94
+     15.15   7.1.7.96.06.02-4 RENDAS POR TRANSACAO DE SAQUE  CARTAO PRE-PAGO              5,00              265,20            13,26
+     15.15   7.1.7.98.02.08-7 RENDAS DE SERVICO S/ TARIFA DE SAQUE EXCEDENTE              5,00              363,70            18,18
+     15.16   7.1.7.95.15.01-0 RENDAS DE TARIFAS PF - DOC PESSOAL                          5,00               44,10             2,20
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0647            PAG:    3
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0647-5 - CAPITAL, DF                                                                             PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0647-5 CAPITAL, DF                           CNPJ: 00.360.305.0647-73              INSC. MUNICIPAL: 0731282502704
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+0  CODIGO RECEITA:  N/CAD           - NAO CADASTRADA
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 15 - SERV RELAC AO SETOR BANCARIO OU FINANC, INCLUSIVE INSTITUICOES FINAN
+0  SUBITENS  SUBCONTA         DESCRICAO                                                   ALIQ.    BASE DE CALCULO            ISSQN
+ 
+     15.16   7.1.7.95.15.02-9 RENDAS DE TARIFAS S/EMISSAO DE DOC ELETR-PF                 5,00              431,75            21,58
+     15.16   7.1.7.95.15.03-7 RENDAS DE TARIFAS S/EMISS O DE DOC VIA IBC-PF               5,00            1.365,90            68,29
+     15.16   7.1.7.95.15.04-5 RENDAS DE TARIFAS PF - TED PESSOAL VIA CIP                  5,00            4.498,20           224,91
+     15.16   7.1.7.95.15.06-1 RDAS DE TARIFAS S/EMISSAO DE TED CIP VIA IBC-PF             5,00            7.010,05           350,50
+     15.16   7.1.7.95.15.07-0 RDAS DE TARIFAS S/EMISSAO TED PESSOAL VIA STR-PF            5,00              147,00             7,34
+     15.16   7.1.7.95.15.09-6 RDAS DE TARIFAS S/EMISSAO DE TED STR VIA IBC-PF             5,00              792,85            39,64
+     15.16   7.1.7.95.15.10-0 RDAS TARIFAS DE TED STR/CIP PESSOAL-PF                      5,00               58,80             2,94
+     15.16   7.1.7.95.17.02-1 RDAS DE TARIFAS S/EMISSAO DE TEV-CLIENTES PF                5,00              884,51            44,22
+     15.16   7.1.7.96.04.01-3 RENDAS DE SERVICOS DIFERENCIADOS PF OP DE CAMBIO            5,00              703,59            35,17
+     15.16   7.1.7.96.04.02-1 RDAS DE SERVS DIFERENCIADOS A PF OP DE CAMBIO               5,00              191,50             9,57
+     15.16   7.1.7.98.03.02-4 RENDAS DE TARIFAS PJ SOBRE EMISSAO DE DOC                   5,00            1.410,00            70,49
+     15.16   7.1.7.98.03.03-2 RENDAS DE TARIFAS PJ  S/ EMISSAO DE TED VIA STR             5,00              168,70             8,43
+     15.16   7.1.7.98.03.04-0 RENDAS DE TARIFAS PJ S/ EMISSAO DE TED VIA CIP              5,00            4.576,80           228,83
+     15.16   7.1.7.98.03.07-5 RDAS TARIFAS PJ SOBRE EMISSAO TED STR/CIP                   5,00              249,90            12,49
+     15.17   7.1.7.95.06.01-1 RENDAS DE TARIFAS SUSTACAO/REVOGACAO CHEQUES-PF             5,00               76,97             3,84
+     15.17   7.1.7.95.07.01-8 RDAS DE TARIFAS DE FORNCTO FOLHAS DE CHEQUES-PF             5,00              211,20            10,56
+     15.17   7.1.7.98.02.04-4 RDAS SERV S/ TARIFAS DE SUSTACAO/REVOGACAO CHEQ             5,00              885,00            44,24
+     15.17   7.1.7.98.02.05-2 RDAS DE SERV S/ TARIFAS DE FORNCTO DE CHEQUE PJ             5,00              110,40             5,52
+     15.17   7.1.7.98.02.06-0 RDAS S/ TARIFA DE EMISSAO CHEQUE ADMINISTRATIVO             5,00               54,00             2,70
+     15.18   7.1.7.96.03.02-5 RDAS AVALIACAO BENS RECEBIDOS GARANTIA CRED IMOB            5,00              450,00            22,50
+     15.18   7.1.7.97.15.01-0 RENDAS DE SERV S/ TARIFAS DE CREDITO IMOBILIARIO            5,00           39.550,90         1.977,54
+     15.18   7.1.7.97.15.11-7 RDAS SERV S/ TARIFAS DE CRED IMOBILIARIO-OR FGTS            5,00           11.834,91           591,72
+     15.18   7.1.7.99.15.01-9 RDAS DE SERVS EM OP CRED IMOBILIARIO                        5,00           16.810,00           840,50
+     15.18   7.1.7.99.15.02-7 RDAS DE SERVS INTERMEDIACAO SEGURO HABITACIONAL             5,00            4.387,76           219,38
+     15.18   7.1.7.99.15.06-0 RDAS DE SERVS TARIFA OPER MENSAL CRED IMOB-PF               5,00              275,00            13,75
+     15.18   7.1.7.99.15.21-3 RENDAS DE TAR SERV PREST EM OP CRED IMOB OR FGTS            5,00            5.862,83-          293,17-
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 17 - SERVICOS APOIO TECNICO, ADMINISTO, JURIDICO, CONTABIL, COMERCIAL E C
+     17.01   7.1.7.99.20.18-7 RENDAS DE TARIFA FORNCTO DE DADOS E INFORMACOES             5,00           21.200,00         1.060,00
+     17.01   7.1.7.99.55.10-0 RDAS DE TARIFAS PROMOCOES COMERCIAIS/FISCALIZACA            5,00          394.909,39        19.745,46
+     17.12   7.1.7.15.10.23-0 RENDAS DE TAXA DE ADM-PROG PROFROTA PESQUEIRA               5,00            1.782,57            89,11
+     17.12   7.1.7.15.10.26-5 RDAS DE TAXA DE ADM-FUNDO DE CONTINGENCIA-RFFSA             5,00           74.012,74         3.700,63
+     17.12   7.1.7.15.10.29-0 RENDAS DE TAXA DE ADM ACORDO CESP/MPU/CAIXA                 5,00          155.905,92         7.795,29
+     17.12   7.1.7.15.40.01-6 RDAS DE PREST DE SERV-PROGRAMAS DIVERSOS                    5,00          110.000,00         5.500,00
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 19 - DIST E VENDA DE LOTERIA, BINGOS, CARTOES, PULES, CUPONS, SORT, TIT C
+     19.01   7.1.7.80.10.09-8 RDAS DE SERV DE COMERCIALIZACAO-TITULOS DE CAPTZ            5,00              215,99            10,79
+0  ITEN LISTA DE SERVICO - LEI COMPLEMENTAR N  116/03     : 28 - SERVICOS DE AVALIACAO DE BENS E SERVICOS DE QUALQUER NATUREZA
+     28.01   7.1.7.99.20.30-6 RENDAS DE TARIFA AVALIACAO BENS DE TERCEIROS                5,00              875,00-           43,75-
+0                                TOTAL COD RECEITA: N/CAD           ----------------------->        171.299.770,73     3.593.039,03
+ 
+0                                TOTAL GERAL ---------------------------------------------->        171.299.770,73     3.593.039,03
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0647            PAG:    4
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0647-5 - CAPITAL, DF                                                                             PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0647-5 CAPITAL, DF                           CNPJ: 00.360.305.0647-73              INSC. MUNICIPAL: 0731282502704
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+ 
+0 ------------------------------ R E S U M O: T O T A I S   P O R   C O D  I G O   D E   R E C E I T A ------------------------------
+0                    CODIGO DE RECEITA                              BASE DE CALCULO                   ISSQN
+                          N/CAD                                      171.299.770,73            3.593.039,03
+                          TOTAL GERAL                                171.299.770,73            3.593.039,03
+0 ---------- R E S U M O: T O T A I S   P O R   I T E N S   E   S U B I T E N S   D A   L I S T A   D E   S E R V I C O S ----------
+0                    ITEM/SUBITEM DA LISTA DE SERVICO               BASE DE CALCULO                   ISSQN
+                          SUBITEM: 03.02                                      39,12                    1,95
+                             ITEM: 03                                         39,12                    1,95
+                          SUBITEM: 10.01                                  15.039,26                  751,89
+                          SUBITEM: 10.02                                  10.659,76                  532,98
+                          SUBITEM: 10.09                                      64,40                    1,28
+                             ITEM: 10                                     25.763,42                1.286,15
+                          SUBITEM: 15.01                             165.731.562,21            3.314.631,25
+                          SUBITEM: 15.02                                  10.030,44                  501,51
+                          SUBITEM: 15.05                                  45.833,55                2.291,66
+                          SUBITEM: 15.06                                   1.296,72                   64,83
+                          SUBITEM: 15.07                                  83.585,71                4.179,26
+                          SUBITEM: 15.08                               4.067.260,96              203.363,03
+                          SUBITEM: 15.10                                 470.225,98               23.511,04
+                          SUBITEM: 15.12                                  20.056,41                1.002,82
+                          SUBITEM: 15.13                                   5.120,00                  256,00
+                          SUBITEM: 15.14                                  24.100,63-               1.205,06-
+                          SUBITEM: 15.15                                  14.628,27                  731,38
+                          SUBITEM: 15.16                                  22.533,65                1.126,60
+                          SUBITEM: 15.17                                   1.337,57                   66,86
+                          SUBITEM: 15.18                                  67.445,74                3.372,22
+                             ITEM: 15                                170.516.816,58            3.553.893,40
+                          SUBITEM: 17.01                                 416.109,39               20.805,46
+                          SUBITEM: 17.12                                 341.701,23               17.085,03
+                             ITEM: 17                                    757.810,62               37.890,49
+                          SUBITEM: 19.01                                     215,99                   10,79
+                             ITEM: 19                                        215,99                   10,79
+                          SUBITEM: 28.01                                     875,00-                  43,75-
+                             ITEM: 28                                        875,00-                  43,75-
+                          TOTAL GERAL                                171.299.770,73            3.593.039,03
+101/02/2017   PZ. ARQ.: 10A             C A I X A - C A I X A  E C O N O M I C A  F E D E R A L             0647            PAG:    5
+006:18:28                             SIGIP - SISTEMA DE GERENCIAMENTO DE IMPOSTOS MUNICIPAIS                          GIPSB750 - #10
+0GIPPB740 - 001                                ISSQN SERVICO BANCARIO - PONTO DE VENDA                  1 MENSAL     MES/ANO: 01/2017
+ 
+0UNIDADE DE DESTINO: 0647-5 - CAPITAL, DF                                                                             PRIMEIRA PREVIA
+ ------------------------------------------------------------------------------------------------------------------------------------
+0PONTO VENDA: 0647-5 CAPITAL, DF                           CNPJ: 00.360.305.0647-73              INSC. MUNICIPAL: 0731282502704
+0MUNICIPIO: 53-0010-8 BRASILIA                             PV RECOLHIMENTO: 0002-7 PLANALTO, DF
+0------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+0 ----------------------------------------------- R E S U M O   D A    U N I D A D E -----------------------------------------------
+0               ISSQN APURADO (R$) ----------------          3.593.039,03
+0               AJUSTES (R$):
+                      ( - ) INCENTIVO FISCAL ------                  0,00
+                      ( - ) ISSQN RETIDO NA FONTE -                  0,00
+                      ( - ) CREDITO TRIBUTARIO ----                  0,00
+0               ISSQN A PAGAR (R$) ----------------          3.593.039,03

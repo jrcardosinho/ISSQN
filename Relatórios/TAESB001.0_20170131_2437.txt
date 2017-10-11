@@ -1,0 +1,120 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 2437-VALPARAISO, GO                                        PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/2185-8 VALPARAISO DE GOIAS
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    00036656-0  JKM IMOVEIS LTDA                    1899  013143934/0001-24                       1.655,38           82,76   5,00000
+    00038261-2  SUPREMA NEGOCIOS IMOBILIARIOS LTDA  2437  013254684/0001-08                      12.039,25          601,96   5,00000
+    00046692-1  cintia dos santos n. do rio apoio a 4501  013646106/0001-09                      16.642,13          832,10   5,00000
+    00052194-9  Alian a Imobili ria LTDA            0674  017033247/0001-07                      74.228,79        3.711,43   5,00000
+    00053185-5  L B ASS E NEG IMOBILIARIOS LTDA - M 0816  015871819/0001-00                       4.942,18          247,10   5,00000
+    00056549-0  CRED REAL IMOVEIS LTDA - ME         0006  018653573/0001-80                       9.436,56          471,82   5,00000
+    00060206-0  ALEX BARBOSA SANTOS - ME            0630  011443613/0001-10                      10.831,27          541,56   5,00000
+    00060472-0  P R N SERVICOS ADMINISTRATIVOS LTDA 2437  008601206/0002-60                       6.302,80          315,14   5,00000
+    00063818-8  TELES E LACERDA MERCADINHO E ARMARI 4501  017843064/0001-57                           0,00            0,00   5,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                      136.078,36        6.803,87
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    00032091-9  SUPERMERCADO JPR & OLIVEIRA LTDA    2437  008976598/0001-60  ISENTO               4.074,43          203,71   5,00000
+    00051763-1  CN TUTIDA NEGOCIOS IMOBILIARIOS ME  4461  017124263/0001-05  2222                25.515,15          510,30   2,00000
+    00015900-0  SUPERMERCADO E PANIFICADORA SHALON  2437  005731097/0001-26  5221                 3.760,47          188,02   5,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                           33.350,05          902,03
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                             143.913,26        7.195,60   5,00000
+                                                                                                 25.515,15          510,30   2,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                         169.428,41        7.705,90
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 2437-VALPARAISO, GO                                        PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/2185-8 VALPARAISO DE GOIAS
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    08006970-3  LOTERIAS SORTE LTDA                 4501  002857618/0001-06                      24.671,82        1.233,57   5,00000
+    08018622-0  LOTERICA ALIANCA LTDA ME            2437  007108438/0001-37                      26.998,44          753,23   2,79000
+    08020801-0  CASA LOTERICA PREMIUM LTDA          2437  012929582/0001-74                       9.086,50          454,31   5,00000
+    08020841-0  CASA LOTERICA AGUIAR LTDA - ME      2437  013163236/0001-90                       6.328,25          316,40   5,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                       67.085,01        2.757,51
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    08007515-0  CASA LOT COLMEIA DE OURO LTD        4501  003311732/0001-90  1657                32.627,81        1.631,35   5,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                           32.627,81        1.631,35
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              72.714,38        3.635,63   5,00000
+                                                                                                 26.998,44          753,23   2,79000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                          99.712,82        4.388,86
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO

@@ -1,0 +1,107 @@
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3369         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 3369-3  CRISTALINA, GO                           UNID. RECOLHIMENTO: 3369-3  CRISTALINA, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.0620-6  NOME: CRISTALINA                           UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 3369-3  CRISTALINA, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-003157.9 G.S.T. LOTERIAS - ME                     CPF/CNPJ: 01.508.087/0001-75  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         395,00                 34,01           3,50              1,16
+    0591 LOTOFACIL                                                   41.366,00              3.561,94           3,50            124,59
+    0592 TIMEMANIA                                                    5.908,00                531,72           3,50             18,54
+    0595 LOTOGOL                                                         22,00                  1,86           3,50              0,04
+    0740 QUINA                                                       27.276,00              2.347,25           3,50             82,00
+    0741 MEGASENA                                                   108.934,00              9.381,62           3,50            328,30
+    0745 LOTOMANIA                                                    6.223,50                535,53           3,50             18,70
+    0749 DUPLA SENA                                                   6.266,00                539,42           3,50             18,82
+ 
+    TOTAL/CANAL LOTERICO:                                           196.390,50             16.933,35                           592,15
+ 
+    0760 LOTERIA INSTANTANEA                                          2.000,00                260,00           3,50              9,10
+    0761 LOTERIA FEDERAL                                                592,20                 29,61           3,50              1,02
+ 
+    TOTAL/CANAL LOTERICO:                                             2.592,20                289,61                            10,12
+ 
+    TOTAL CD:                                                       198.982,70             17.222,96                           602,27
+0
+ 08-007918.0 G.S.T LOTERIAS LTDA-ME FILIAL            CPF/CNPJ: 01.508.087/0002-56  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          48,00                  4,13           2,00              0,08
+    0591 LOTOFACIL                                                    2.778,00                239,01           2,00              4,71
+    0592 TIMEMANIA                                                       80,00                  7,20           2,00              0,11
+    0740 QUINA                                                        1.536,00                131,57           2,00              2,54
+    0741 MEGASENA                                                     7.819,00                673,26           2,00             13,41
+    0745 LOTOMANIA                                                      526,50                 45,20           2,00              0,87
+    0749 DUPLA SENA                                                     142,00                 12,16           2,00              0,20
+ 
+    TOTAL/CANAL LOTERICO:                                            12.929,50              1.112,53                            21,92
+ 
+    0761 LOTERIA FEDERAL                                                557,60                 27,88           2,00              0,53
+ 
+    TOTAL/CANAL LOTERICO:                                               557,60                 27,88                             0,53
+ 
+    TOTAL CD:                                                        13.487,10              1.140,41                            22,45
+0
+ 08-023200.0 LOTERIAS GST & BESSA LTDA ME             CPF/CNPJ: 16.877.335/0001-22  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         207,00                 17,80           2,00              0,34
+    0591 LOTOFACIL                                                   28.600,00              2.462,67           2,00             49,16
+    0592 TIMEMANIA                                                    2.872,00                258,48           2,00              5,10
+    0595 LOTOGOL                                                         13,00                  1,11           2,00              0,02
+    0740 QUINA                                                       18.514,50              1.593,71           2,00             31,74
+    0741 MEGASENA                                                    78.645,00              6.772,98           2,00            135,42
+    0745 LOTOMANIA                                                    4.579,50                394,11           2,00              7,83
+    0749 DUPLA SENA                                                   5.764,00                496,26           2,00              9,87
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3369         PAG -      2
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 3369-3  CRISTALINA, GO                           UNID. RECOLHIMENTO: 3369-3  CRISTALINA, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.0620-6  NOME: CRISTALINA                           UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 3369-3  CRISTALINA, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+    TOTAL/CANAL LOTERICO:                                           139.195,00             11.997,12                           239,48
+ 
+    0761 LOTERIA FEDERAL                                                278,80                 13,94           2,00              0,26
+ 
+    TOTAL/CANAL LOTERICO:                                               278,80                 13,94                             0,26
+ 
+    TOTAL CD:                                                       139.473,80             12.011,06                           239,74
+0
+ TOTAL PONTO DE VENDA:                                              351.943,60             30.374,43                           864,46
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         3369         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 52.0620-6  NOME: CRISTALINA                           UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                         650,00                 55,94                             1,58
+    0591 LOTOFACIL                                                   72.744,00              6.263,62                           178,46
+    0592 TIMEMANIA                                                    8.860,00                797,40                            23,75
+    0595 LOTOGOL                                                         35,00                  2,97                             0,06
+    0740 QUINA                                                       47.326,50              4.072,53                           116,28
+    0741 MEGASENA                                                   195.398,00             16.827,86                           477,13
+    0745 LOTOMANIA                                                   11.329,50                974,84                            27,40
+    0749 DUPLA SENA                                                  12.172,00              1.047,84                            28,89
+    0760 LOTERIA INSTANTANEA                                          2.000,00                260,00                             9,10
+    0761 LOTERIA FEDERAL                                              1.428,60                 71,43                             1,81
+0
+ TOTAL GERAL:                                                       351.943,60             30.374,43                           864,46

@@ -1,0 +1,106 @@
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         4223         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 4223-4  SANTO ANTONIO DO DESCOBERTO, GO          UNID. RECOLHIMENTO: 4223-4  SANTO ANTONIO DO DESCOBERTO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.1975-3  NOME: SANTO ANTONIO DO DESCOBERTO          UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 4223-4  SANTO ANTONIO DO DESCOBERTO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 08-007807.9 W A LOTERICA E CONVENIENCIA LT           CPF/CNPJ: 03.504.114/0001-67  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                         758,00                 65,27           5,00              3,25
+    0591 LOTOFACIL                                                   32.090,00              2.763,27           5,00            138,10
+    0592 TIMEMANIA                                                    3.504,00                315,36           5,00             15,71
+    0595 LOTOGOL                                                        189,00                 16,24           5,00              0,78
+    0740 QUINA                                                       25.774,50              2.218,84           5,00            110,81
+    0741 MEGASENA                                                    93.789,50              8.077,39           5,00            403,83
+    0745 LOTOMANIA                                                   10.378,50                893,54           5,00             44,64
+    0749 DUPLA SENA                                                   2.786,00                239,82           5,00             11,92
+ 
+    TOTAL/CANAL LOTERICO:                                           169.269,50             14.589,73                           729,04
+ 
+    0761 LOTERIA FEDERAL                                                926,20                 46,31           0,00              2,26
+ 
+    TOTAL/CANAL LOTERICO:                                               926,20                 46,31                             2,26
+ 
+    TOTAL CD:                                                       170.195,70             14.636,04                           731,30
+0
+ 08-023168.3 ADM LOTERICA LTDA ME                     CPF/CNPJ: 16.540.169/0001-74  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          66,00                  5,68           5,00              0,27
+    0591 LOTOFACIL                                                   17.744,00              1.527,76           5,00             76,32
+    0592 TIMEMANIA                                                    1.616,00                145,44           5,00              7,19
+    0595 LOTOGOL                                                         25,00                  2,13           5,00              0,07
+    0740 QUINA                                                       10.701,00                920,21           5,00             45,88
+    0741 MEGASENA                                                    49.574,00              4.269,38           5,00            213,42
+    0745 LOTOMANIA                                                    4.512,00                388,34           5,00             19,37
+    0749 DUPLA SENA                                                     884,00                 76,03           5,00              3,73
+ 
+    TOTAL/CANAL LOTERICO:                                            85.122,00              7.334,97                           366,25
+ 
+    0761 LOTERIA FEDERAL                                                278,80                 13,94           5,00              0,67
+ 
+    TOTAL/CANAL LOTERICO:                                               278,80                 13,94                             0,67
+ 
+    TOTAL CD:                                                        85.400,80              7.348,91                           366,92
+0
+ 08-023741.0 ZEUS PIETRA LOTERICA LTDA-ME             CPF/CNPJ: 17.078.564/0001-40  INSC. ISS:      0  TP. EMP.: MICROEMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          41,00                  3,51           5,00              0,16
+    0591 LOTOFACIL                                                    7.812,00                672,55           5,00             33,57
+    0592 TIMEMANIA                                                      996,00                 89,64           5,00              4,42
+    0595 LOTOGOL                                                         12,00                  1,00           5,00              0,02
+    0740 QUINA                                                        6.810,00                585,81           5,00             29,18
+    0741 MEGASENA                                                    18.000,50              1.550,21           5,00             77,48
+    0745 LOTOMANIA                                                    1.960,50                168,71           5,00              8,39
+    0749 DUPLA SENA                                                     478,00                 41,09           5,00              1,97
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         4223         PAG -      2
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 4223-4  SANTO ANTONIO DO DESCOBERTO, GO          UNID. RECOLHIMENTO: 4223-4  SANTO ANTONIO DO DESCOBERTO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 52.1975-3  NOME: SANTO ANTONIO DO DESCOBERTO          UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 4223-4  SANTO ANTONIO DO DESCOBERTO, GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+    TOTAL/CANAL LOTERICO:                                            36.110,00              3.112,52                           155,19
+ 
+    0761 LOTERIA FEDERAL                                                278,80                 13,94           0,00              0,67
+ 
+    TOTAL/CANAL LOTERICO:                                               278,80                 13,94                             0,67
+ 
+    TOTAL CD:                                                        36.388,80              3.126,46                           155,86
+0
+ TOTAL PONTO DE VENDA:                                              291.985,30             25.111,41                         1.254,08
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         4223         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 52.1975-3  NOME: SANTO ANTONIO DO DESCOBERTO          UF: GO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                         865,00                 74,46                             3,68
+    0591 LOTOFACIL                                                   57.646,00              4.963,58                           247,99
+    0592 TIMEMANIA                                                    6.116,00                550,44                            27,32
+    0595 LOTOGOL                                                        226,00                 19,37                             0,87
+    0740 QUINA                                                       43.285,50              3.724,86                           185,87
+    0741 MEGASENA                                                   161.364,00             13.896,98                           694,73
+    0745 LOTOMANIA                                                   16.851,00              1.450,59                            72,40
+    0749 DUPLA SENA                                                   4.148,00                356,94                            17,62
+    0761 LOTERIA FEDERAL                                              1.483,80                 74,19                             3,60
+0
+ TOTAL GERAL:                                                       291.985,30             25.111,41                         1.254,08

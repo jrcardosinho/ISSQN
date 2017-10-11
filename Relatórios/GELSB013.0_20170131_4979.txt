@@ -1,0 +1,55 @@
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         4979         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNID. DESTINO : 4979-4  BURITIS DE MINAS, MG                     UNID. RECOLHIMENTO: 4979-4  BURITIS DE MINAS, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO DO MUNICIPIO: 31.0930-3  NOME: BURITIS                              UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ PONTO DE VENDA: 4979-4  BURITIS DE MINAS, MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 11-018104.2 MAIRA CRISTINA LOPES & CIA               CPF/CNPJ: 07.007.269/0001-49  INSC. ISS:      0  TP. EMP.: EMPRESA
+    PRODUTO                                                        ARRECADACAO           REMUNERACAO       ALIQUOTA             ISSQN
+    0531 LOTECA                                                          38,00                  3,25           0,00              0,00
+    0591 LOTOFACIL                                                   23.662,00              2.037,21           0,00              0,00
+    0592 TIMEMANIA                                                    3.324,00                299,16           0,00              0,00
+    0595 LOTOGOL                                                        184,00                 15,81           0,00              0,00
+    0740 QUINA                                                       18.628,50              1.602,89           0,00              0,00
+    0741 MEGASENA                                                    70.955,50              6.110,76           0,00              0,00
+    0745 LOTOMANIA                                                    5.455,50                469,47           0,00              0,00
+    0749 DUPLA SENA                                                   2.392,00                205,89           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                           124.639,50             10.744,44                             0,00
+ 
+    0761 LOTERIA FEDERAL                                                620,60                 31,03           0,00              0,00
+ 
+    TOTAL/CANAL LOTERICO:                                               620,60                 31,03                             0,00
+ 
+    TOTAL CD:                                                       125.260,10             10.775,47                             0,00
+0
+ TOTAL PONTO DE VENDA:                                              125.260,10             10.775,47                             0,00
+0
+102/02/2017 PZ ARQ: 05A            C A I X A    -    C A I X A    E C O N O M I C A   F E D E R A L         4979         PAG -      1
+ 
+ 01:39:01                                      SIGEL  -  SISTEMA DE GESTAO DE LOTERIAS                                GELSB013  - #10
+                                                                                                                      MES/ANO:01/2017
+ GELPB013 - V02                         ISSQN A RECOLHER REVENDEDORES LOTERICOS POR MUNICIPIO                         REF: 01/02/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 
+ CODIGO DO MUNICIPIO: 31.0930-3  NOME: BURITIS                              UF: MG
+ ------------------------------------------------------------------------------------------------------------------------------------
+ RESUMO GERAL DO MUNICIPIO
+    0531 LOTECA                                                          38,00                  3,25                             0,00
+    0591 LOTOFACIL                                                   23.662,00              2.037,21                             0,00
+    0592 TIMEMANIA                                                    3.324,00                299,16                             0,00
+    0595 LOTOGOL                                                        184,00                 15,81                             0,00
+    0740 QUINA                                                       18.628,50              1.602,89                             0,00
+    0741 MEGASENA                                                    70.955,50              6.110,76                             0,00
+    0745 LOTOMANIA                                                    5.455,50                469,47                             0,00
+    0749 DUPLA SENA                                                   2.392,00                205,89                             0,00
+    0761 LOTERIA FEDERAL                                                620,60                 31,03                             0,00
+0
+ TOTAL GERAL:                                                       125.260,10             10.775,47                             0,00

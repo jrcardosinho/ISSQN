@@ -1,0 +1,120 @@
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 3052-AGUAS LINDAS, GO                                      PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/0025-8 AGUAS LINDAS DE GOIAS
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                            0,00            0,00
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    00012108-8  AGUAS LINDAS, GO                    3052  000360305/3052-15                           0,00            0,00   5,00000
+    00061772-5  NOVA CAPITAL IMOBILIARIA LTDA       1088  020496343/0001-04                      10.631,56          531,57   5,00000
+    00062435-7  RODRIGO BRASILEIRO OLIV IMOB EIRELI 1040  019139359/0001-72                       3.836,24          191,81   5,00000
+    00063949-4  ELISA LANA DA SILVA BATISTA         3052  023177500/0001-07                           0,00            0,00   5,00000
+    00045549-0  BORGES E OSORIO IMOBILIARIA LTDA    3052  014875774/0001-70  000.087/2012         4.819,56          240,97   5,00000
+    00059499-7  LAURIELLEN TRAVASSOS SILVA ME       1040  019210188/0001-20  105841250              335,10           16,75   5,00000
+    00061932-9  BG CONSULTORIA IMOBILIARIA LTDA-ME  4166  017466847/0001-69  683493               6.665,58          333,27   5,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                           26.288,04        1.314,37
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              26.288,04        1.314,37   5,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                          26.288,04        1.314,37
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
+131/01/2017 PZ ARQ: 05 A                      C A I X A  E C O N O M I C A  F E D E R A L                                   PAG-    1
+ 01:29:42                                 SITAE-SISTEMA DE TRATAMENTO DE TRANSACOES EXTERNAS                             TAESB001-#10
+                                      DEMONSTRATIVO DE ISS RETIDO DE CONVENIADOS - POR MUNICIPIO
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE DE DESTINO: 3052-AGUAS LINDAS, GO                                      PERIODO:01.01.2017 A 31.01.2017 DT MOVTO: 31/01/2017
+ ------------------------------------------------------------------------------------------------------------------------------------
+ CODIGO IBGE: 52/0025-8 AGUAS LINDAS DE GOIAS
+ 
+ CODIGO / NOME CONVENIADO                            PV VINCUL  CNPJ             C.C.M.         VR BASE CALC  VR ISS RETIDO %ALIQUOTA
+ 
+ 1-CONTRIBUINTES NAO INSCRITOS NO I.S.S
+ 
+    08017905-3  LOTERICA AGUAS LINDAS LTDA          3052  006886001/0001-61                      22.467,42          626,81   2,79000
+    08019195-9  LOTERICA B&M LTDA-ME                3052  010560833/0001-60                      16.363,91          327,26   2,00000
+    08021568-8  LOTERICA JARDIM II LTDA             3052  014595538/0001-09                      12.709,22          254,15   2,00000
+    08021570-0  LOTERICA AVENIDA PEROLA LTDA ME     3052  014595563/0001-84                      11.717,76          234,32   2,00000
+ 
+ TOTAL NAO INSCRITOS I.S.S                                                                       63.258,31        1.442,54
+ 
+ 
+ 2-CONTRIBUINTES INSCRITOS NO I.S.S
+ 
+    08022174-2  LOTERICA DA SORTE LTDA ME           3052  015653333/0001-97  0005372012          13.716,58          274,30   2,00000
+    08022196-3  LOTERICA DOIS IRMAOS LTDA           3052  015691424/0001-17  123456789           13.437,57          268,72   2,00000
+ 
+ TOTAL INSCRITOS I.S.S                                                                           27.154,15          543,02
+ 
+ 3-CONSOLIDADO POR ALIQUOTA(%)
+ 
+ TOTAL POR ALIQUOTA                                                                              22.467,42          626,81   2,79000
+                                                                                                 67.945,04        1.358,75   2,00000
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TOTAL GERAL DO PERIODO                                                                          90.412,46        1.985,56
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------
+ UNIDADE RESPONSAVEL: GETRI - BR
+ DESTINO: P.V. DE VINCULACAO OU UNIDADE DE RECOLHIMENTO DO MUNICIPIO
